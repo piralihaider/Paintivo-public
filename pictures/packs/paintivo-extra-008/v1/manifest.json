@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-008",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-animals-happy-puppy-intermediate",
+        "title": "Happy Puppy",
+        "category": "Animals",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-animals-happy-puppy-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-happy-puppy-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-happy-puppy-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-happy-puppy-intermediate-image.png",
+        "bytes": 116392,
+        "sha256": "dae4ee0fd625fdbba6404af8db6b5a95f6966e74138ae9578595f5e6432a74ba"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-happy-puppy-intermediate-thumb.png",
+        "bytes": 15174,
+        "sha256": "d0181681d0207b5b591499b375f75b2d032323f986ff6d4bfd7f2b0c018da71d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-bunny-with-carrot-intermediate",
+        "title": "Bunny with Carrot",
+        "category": "Animals",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-animals-bunny-with-carrot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-bunny-with-carrot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-bunny-with-carrot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-intermediate-image.png",
+        "bytes": 127907,
+        "sha256": "ceb051517ee9ca7ea59d034e16687b37fa67b8be836f9e3a24d7cfa9ca4fcad6"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-intermediate-thumb.png",
+        "bytes": 17283,
+        "sha256": "7a19817cf8ca35cf7f2a4e66e79bcb44e9412d875d17bce2bd65c9543366a4f4"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-apple-orchard-intermediate",
+        "title": "Apple Orchard",
+        "category": "Nature",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-nature-apple-orchard-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-apple-orchard-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-apple-orchard-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-apple-orchard-intermediate-image.png",
+        "bytes": 110551,
+        "sha256": "d9bba6be1dc532c8df68ef90ed74f73b32ecb3780f685eb47210fba303231a5e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-apple-orchard-intermediate-thumb.png",
+        "bytes": 14832,
+        "sha256": "4309536bac18c8e255bfadb86f33d5029e646c56f173331de6b9f21f9d912434"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-rainbow-sky-intermediate",
+        "title": "Rainbow Sky",
+        "category": "Nature",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-nature-rainbow-sky-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-rainbow-sky-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-rainbow-sky-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-intermediate-image.png",
+        "bytes": 109936,
+        "sha256": "0da31c70ce315029280153a6fece9894d2550858e627c419e3b9fefd234fe83e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-intermediate-thumb.png",
+        "bytes": 14471,
+        "sha256": "a120cdadf4c39ee40ab463766ed941a3e99ab7044271b44f34217dad63406dfb"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-starship-launch-intermediate",
+        "title": "Starship Launch",
+        "category": "Space",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-space-starship-launch-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-space-starship-launch-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-starship-launch-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-starship-launch-intermediate-image.png",
+        "bytes": 121945,
+        "sha256": "34aac4092805bbc56b6a7d5c44d5342d0afaf641a90ae63bf0bb8b547c9a05a1"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-starship-launch-intermediate-thumb.png",
+        "bytes": 14193,
+        "sha256": "1c81a84f9c6e13c5f7ea28649e06eb272ef39350b1684e1e9b3a7ddc4c21dd14"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-saturn-voyage-intermediate",
+        "title": "Saturn Voyage",
+        "category": "Space",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-space-saturn-voyage-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-space-saturn-voyage-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-saturn-voyage-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-saturn-voyage-intermediate-image.png",
+        "bytes": 133950,
+        "sha256": "e4855f430bd790ddb72c37e5a32738442b2b362a66cc4dc8a1d523a6197e9195"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-saturn-voyage-intermediate-thumb.png",
+        "bytes": 16369,
+        "sha256": "913a5f4873e777f38c8ac8afccd9561ab3fa693247ea8bc31d501d7082829bbe"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-lotus-wheel-intermediate",
+        "title": "Lotus Wheel",
+        "category": "Mandalas",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-mandalas-lotus-wheel-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-lotus-wheel-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-lotus-wheel-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-lotus-wheel-intermediate-image.png",
+        "bytes": 176205,
+        "sha256": "b897b0b9ed2d5466b10aed4234f802198b974d548aba6f6b584a7e5d27c90ae8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-lotus-wheel-intermediate-thumb.png",
+        "bytes": 21236,
+        "sha256": "c6763ea008da19729b0b0a1fe7b6a8abc3499d54c17563eef9431911ed342cc9"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-crystal-rosette-intermediate",
+        "title": "Crystal Rosette",
+        "category": "Mandalas",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-mandalas-crystal-rosette-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-crystal-rosette-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-crystal-rosette-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-crystal-rosette-intermediate-image.png",
+        "bytes": 201643,
+        "sha256": "50f2e05b595883f04f4a1f75d16d333e3d31f1f0694ec6e15ce32fc8b3aeeb1e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-crystal-rosette-intermediate-thumb.png",
+        "bytes": 24301,
+        "sha256": "8ee3716cf5419201011442b5425514feb2ba5a8886dc0906667471ece53bec48"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-five-petal-harmony-intermediate",
+        "title": "Five Petal Harmony",
+        "category": "Mandalas",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-mandalas-five-petal-harmony-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-five-petal-harmony-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-five-petal-harmony-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-intermediate-image.png",
+        "bytes": 167374,
+        "sha256": "daa62c50da0164e00d8458788322a732b5bf8b97081b2ae4b022be81e447d0a4"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-intermediate-thumb.png",
+        "bytes": 20692,
+        "sha256": "2ea0e51ecd4f367879e55ff388530336d7b0ca890e963e0a309cd195e4d51a7e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-school-bus-intermediate",
+        "title": "School Bus",
+        "category": "Vehicles",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-vehicles-school-bus-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-school-bus-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-school-bus-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-school-bus-intermediate-image.png",
+        "bytes": 93789,
+        "sha256": "6c95b36ec299c8d8c43c6d8e0501a81def9ce2ad46807d840c67cec62a45c5b8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-school-bus-intermediate-thumb.png",
+        "bytes": 13384,
+        "sha256": "78710accaddb0af6b0dc03d97121375e97cebf095d3ec1472ef526de7703d4b7"
+      }
+    }
+  ]
+}

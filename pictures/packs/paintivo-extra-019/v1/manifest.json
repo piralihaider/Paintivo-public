@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-019",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-clock-tower-expert",
+        "title": "Clock Tower",
+        "category": "Buildings",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-buildings-clock-tower-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-clock-tower-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-clock-tower-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-clock-tower-expert-image.png",
+        "bytes": 146937,
+        "sha256": "c1dacb35d3ee8fd6a3ff4acbdb2b2e9ec136996e591707f190ba5e9e736ce164"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-clock-tower-expert-thumb.png",
+        "bytes": 23506,
+        "sha256": "30a730fc4782e091336760fee6e9135c4d1997ac532d87f1a9ce421fb9af84ad"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-village-school-expert",
+        "title": "Village School",
+        "category": "Buildings",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-buildings-village-school-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-village-school-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-village-school-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-village-school-expert-image.png",
+        "bytes": 151923,
+        "sha256": "f5044b9504eb1cfa5edb53b8723594e65b14d52e2519b4baa05ce7272cdadc22"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-village-school-expert-thumb.png",
+        "bytes": 23910,
+        "sha256": "c101aca20526a1afeb746db2687550f0fd008efab9ed463559d5e14609fd0263"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-country-windmill-expert",
+        "title": "Country Windmill",
+        "category": "Buildings",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-buildings-country-windmill-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-country-windmill-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-country-windmill-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-expert-image.png",
+        "bytes": 170411,
+        "sha256": "3cc46e52c32cbfea705977c32b6c97091b862302be544d913b90d972a37a7076"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-expert-thumb.png",
+        "bytes": 26213,
+        "sha256": "6ce8f40d19003dd5d6a4a3a2031c38fd49f817d295b982870cf8fe7e60343de2"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-corner-shop-expert",
+        "title": "Corner Shop",
+        "category": "Buildings",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-buildings-corner-shop-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-corner-shop-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-corner-shop-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-expert-image.png",
+        "bytes": 142547,
+        "sha256": "e35fcbacc84cc53df616bd1390ea8db4e87fc1b90b722852a32781e2c46c7653"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-expert-thumb.png",
+        "bytes": 22815,
+        "sha256": "09d6111d149277d7d8a1d0c147e98ee64ce0bbba60bb8e5cfe8d27fa0b770527"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-spring-tulip-expert",
+        "title": "Spring Tulip",
+        "category": "Flowers",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-flowers-spring-tulip-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-spring-tulip-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-spring-tulip-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-spring-tulip-expert-image.png",
+        "bytes": 137881,
+        "sha256": "103f1284d7b27826e8b0e42fd7ffe92e8244e797af04ec0d7df8d67aae15a0c6"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-spring-tulip-expert-thumb.png",
+        "bytes": 20196,
+        "sha256": "d422864628ce5f398f172d93fcd4b36c36ce3df90009fe5ceb54a7a199be2028"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-cosmos-blossom-expert",
+        "title": "Cosmos Blossom",
+        "category": "Flowers",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-flowers-cosmos-blossom-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-cosmos-blossom-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-cosmos-blossom-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-cosmos-blossom-expert-image.png",
+        "bytes": 146672,
+        "sha256": "6703c50fe4fdbd875ed3c2cefc30397c1e2410ef45040943a2c988706b82d20a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-cosmos-blossom-expert-thumb.png",
+        "bytes": 21260,
+        "sha256": "af9ec8354d5d48135ef2902506c8525f9f9309baf85e5795e68f4df55cc998ee"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-flower-bouquet-expert",
+        "title": "Flower Bouquet",
+        "category": "Flowers",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-flowers-flower-bouquet-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-flower-bouquet-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-flower-bouquet-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-expert-image.png",
+        "bytes": 154961,
+        "sha256": "8944b2608a1716b7823b4b60ecc932071dfe2f5f64fb4592ccb936af5cd01b41"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-expert-thumb.png",
+        "bytes": 23231,
+        "sha256": "e27287be2a3d25fb865b10624dab0bbc7955db5cace77b254f3f080364f28107"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-marigold-pot-expert",
+        "title": "Marigold Pot",
+        "category": "Flowers",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-flowers-marigold-pot-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-marigold-pot-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-marigold-pot-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-expert-image.png",
+        "bytes": 152369,
+        "sha256": "ebc373893e58704da589c920ea53def7eeba8d085c8d74383125de09ef9d9aef"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-expert-thumb.png",
+        "bytes": 21944,
+        "sha256": "a59bc057669d72a5d22db963b016c23bea098d17ed306c89e33576073b00304c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-champion-trophy-expert",
+        "title": "Champion Trophy",
+        "category": "Sports",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-sports-champion-trophy-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-champion-trophy-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-champion-trophy-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-champion-trophy-expert-image.png",
+        "bytes": 103650,
+        "sha256": "3f1f5da454a8b823b0820579125a1f9f2d70f67c2fa11a0b469e7dfc08de468a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-champion-trophy-expert-thumb.png",
+        "bytes": 15059,
+        "sha256": "b725fca69dbe49d5a7e40f3431a364f960c898878bbad5baf570c152fb437980"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-tennis-time-expert",
+        "title": "Tennis Time",
+        "category": "Sports",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-sports-tennis-time-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-tennis-time-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-tennis-time-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-tennis-time-expert-image.png",
+        "bytes": 119591,
+        "sha256": "fab3ff7a3743faa1d019a7e0b628bd0d89aaebbdd3fae22b24be08c389d643f8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-tennis-time-expert-thumb.png",
+        "bytes": 16744,
+        "sha256": "82c15d4705b823ee5dc2474401ba6c08f20bc11c2de19b67f9dad3cd4a41dc45"
+      }
+    }
+  ]
+}

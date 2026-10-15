@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-013",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-marigold-pot-intermediate",
+        "title": "Marigold Pot",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-marigold-pot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-marigold-pot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-marigold-pot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-intermediate-image.png",
+        "bytes": 151076,
+        "sha256": "106bcbbefb9428c28ad1dc985a183c9e2026967211cee28252abc6839fa7b715"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-intermediate-thumb.png",
+        "bytes": 19257,
+        "sha256": "29fdd4a76061a305535a7dc6bb66a51f84b58eb8ce2fecd9c8623445f46870a4"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-dahlia-garden-intermediate",
+        "title": "Dahlia Garden",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-dahlia-garden-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-dahlia-garden-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-dahlia-garden-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-dahlia-garden-intermediate-image.png",
+        "bytes": 145858,
+        "sha256": "ca32894ed2985660a0b64d933e7b813c16e7c69a52c782f83a42e3bfcb1241bc"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-dahlia-garden-intermediate-thumb.png",
+        "bytes": 18602,
+        "sha256": "dfabe26293f7215618e7f7bd2e829dffbc6f19cb02bbd22888d63941655e5e14"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-basketball-bounce-intermediate",
+        "title": "Basketball Bounce",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-basketball-bounce-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-basketball-bounce-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-basketball-bounce-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-basketball-bounce-intermediate-image.png",
+        "bytes": 102636,
+        "sha256": "7e8bae0ad28b2e151167e6340f72a940be51baff874d8726796bdcdf4b8644c3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-basketball-bounce-intermediate-thumb.png",
+        "bytes": 12973,
+        "sha256": "9b700b314a8bf11e3d3ec09372036ca2fa052221758a13775eb56e62073c19db"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-champion-trophy-intermediate",
+        "title": "Champion Trophy",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-champion-trophy-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-champion-trophy-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-champion-trophy-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-champion-trophy-intermediate-image.png",
+        "bytes": 84530,
+        "sha256": "8263a3ffa7d7090a4b3316e4fe4e2a55956c84896b01145d7b00a52d660aecc8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-champion-trophy-intermediate-thumb.png",
+        "bytes": 11077,
+        "sha256": "45f33928cca19284b1f2d4309bae4e4174041d0635168aa29f739a50ce52a7f9"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-tennis-time-intermediate",
+        "title": "Tennis Time",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-tennis-time-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-tennis-time-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-tennis-time-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-tennis-time-intermediate-image.png",
+        "bytes": 111094,
+        "sha256": "1df51ac5526da3e6af67c5fbab7791d36bbcb39c220454f3ed0a3e011584421e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-tennis-time-intermediate-thumb.png",
+        "bytes": 13609,
+        "sha256": "a9a90346d0caa794232f232a5ffe2445c7cdbd7c8b22ea82bbf118552fa1409b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-skateboard-park-intermediate",
+        "title": "Skateboard Park",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-skateboard-park-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-skateboard-park-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-skateboard-park-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-intermediate-image.png",
+        "bytes": 74903,
+        "sha256": "5ef9978e8929cee7e3157c11c7b9c3c832972071a432b2c9be9a543c5144975b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-intermediate-thumb.png",
+        "bytes": 11156,
+        "sha256": "3bfe6f2ae403ae6cd68e1a3298d8bdef2dee2d833ac651182235893668aae90f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-bicycle-ride-intermediate",
+        "title": "Bicycle Ride",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-bicycle-ride-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-bicycle-ride-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-bicycle-ride-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-intermediate-image.png",
+        "bytes": 98422,
+        "sha256": "116ff822cdef6e0ac86133c053566b1f6dd72ef528ea625fda19e159e9cb63c6"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-intermediate-thumb.png",
+        "bytes": 13109,
+        "sha256": "f386fa7506646a94cd546fc9fa8640e3007691e6b5df2b26c04d67b1d0468cf4"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-boxing-gloves-intermediate",
+        "title": "Boxing Gloves",
+        "category": "Sports",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-sports-boxing-gloves-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-boxing-gloves-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-boxing-gloves-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-boxing-gloves-intermediate-image.png",
+        "bytes": 83263,
+        "sha256": "060bf2cfacc4db177160e59cb41e33a139383ead31bfd0d4fb849f16b090c40b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-boxing-gloves-intermediate-thumb.png",
+        "bytes": 11259,
+        "sha256": "d5399ebb6eaf931dd3834b93a931140abfcb151e4ae6d08f3024f08b843380ab"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-bubble-bot-intermediate",
+        "title": "Bubble Bot",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-bubble-bot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-bubble-bot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-bubble-bot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-bubble-bot-intermediate-image.png",
+        "bytes": 112425,
+        "sha256": "04664b418aed9b013a243ab8d5252571f3936ac3f6db8a64e9505723ebb3ae0f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-bubble-bot-intermediate-thumb.png",
+        "bytes": 14504,
+        "sha256": "9340590b3f504ed6f03f480d08e75447f723d990484d6b3c07e28cda877bd6ac"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-explorer-bot-intermediate",
+        "title": "Explorer Bot",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-explorer-bot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-explorer-bot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-explorer-bot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-explorer-bot-intermediate-image.png",
+        "bytes": 101804,
+        "sha256": "36462726baa14aa986fd7d9e7b79a9cb5fde5c082824bfb85f5b99b42db07a94"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-explorer-bot-intermediate-thumb.png",
+        "bytes": 13513,
+        "sha256": "86fe0e0cecab7599e92d173dc7c91d4f8a8548308e82664d673c751b673c4180"
+      }
+    }
+  ]
+}

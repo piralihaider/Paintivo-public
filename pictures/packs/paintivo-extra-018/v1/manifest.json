@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-018",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-floating-jellyfish-expert",
+        "title": "Floating Jellyfish",
+        "category": "Ocean",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-ocean-floating-jellyfish-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-floating-jellyfish-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-floating-jellyfish-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-floating-jellyfish-expert-image.png",
+        "bytes": 154645,
+        "sha256": "7051f23135c19c958ff402486bf714f35ed7d3343ec8b746b41ccaf3bad55667"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-floating-jellyfish-expert-thumb.png",
+        "bytes": 27126,
+        "sha256": "00e05a9c8753582c119cf7946abf298747a3759f7c5a33dca790a89b3b75546f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-sea-turtle-expert",
+        "title": "Sea Turtle",
+        "category": "Ocean",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-ocean-sea-turtle-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-sea-turtle-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-sea-turtle-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-expert-image.png",
+        "bytes": 169207,
+        "sha256": "fd0c7f79ba15f928e8479659f6a209e19485adbaae73d9c97203c231fd40d78f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-expert-thumb.png",
+        "bytes": 25906,
+        "sha256": "67098d4c106177bf612899495fc28b65473b498c994134e2702e87f450769089"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-little-seahorse-expert",
+        "title": "Little Seahorse",
+        "category": "Ocean",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-ocean-little-seahorse-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-little-seahorse-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-little-seahorse-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-expert-image.png",
+        "bytes": 160576,
+        "sha256": "9bcb7fbd02e841018e18619c9623722c325abc375085a6b64bcda4d497c6a938"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-expert-thumb.png",
+        "bytes": 24842,
+        "sha256": "a913592a2e48adf09a52f074ecd37fd18c70d24818bc11a3fbe4d9165205cd79"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-stegosaurus-trail-expert",
+        "title": "Stegosaurus Trail",
+        "category": "Dinosaurs",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-stegosaurus-trail-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-expert-image.png",
+        "bytes": 135549,
+        "sha256": "a086c444f16cfbc45fdac7f75748385d1c37e6c6ebbc42a932f08419d1cae1c5"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-expert-thumb.png",
+        "bytes": 20352,
+        "sha256": "b2e75067569c778874752dd59a7d1c3cf4f2075b45b6c21ec861dc15b784c47f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-flying-pterosaur-expert",
+        "title": "Flying Pterosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-dinosaurs-flying-pterosaur-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-flying-pterosaur-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-flying-pterosaur-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-flying-pterosaur-expert-image.png",
+        "bytes": 135030,
+        "sha256": "f6f91f84b9f3bc778ff0e87d96d686a1b473e4c3a9b47cacb9bc5d28e16cfc8d"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-flying-pterosaur-expert-thumb.png",
+        "bytes": 19831,
+        "sha256": "ae0b893f07266de76fd9540f90264fa991b5e390be3969282b5153d7d3fb3372"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-friendly-tyrannosaur-expert",
+        "title": "Friendly Tyrannosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-friendly-tyrannosaur-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-expert-image.png",
+        "bytes": 128702,
+        "sha256": "4ef1999cbda94e5c31b07d4a10470d493c320fd8b0fa40686a87ebf1ca9a2351"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-expert-thumb.png",
+        "bytes": 19498,
+        "sha256": "315b6c4c133883e76bc6e5614b3277ce3fb95a92d83311f6d1c8efe8eb5b165e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-armoured-dinosaur-expert",
+        "title": "Armoured Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-armoured-dinosaur-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-expert-image.png",
+        "bytes": 138389,
+        "sha256": "8e186092a3b072d95d23bb2347ca8d02f3bc4c36c18cb4e2c0e5344a00360409"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-expert-thumb.png",
+        "bytes": 20380,
+        "sha256": "dab693c01b1a1545b20bcf89258cec6963fed27f90528e60636862707b7dd1b5"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-garden-fairy-expert",
+        "title": "Garden Fairy",
+        "category": "Fantasy",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-fantasy-garden-fairy-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-garden-fairy-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-garden-fairy-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-garden-fairy-expert-image.png",
+        "bytes": 149128,
+        "sha256": "6be9b18cc166be75029e174b2a7b41b2df1dd6a94cda3afc1704c8a33b47c5ba"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-garden-fairy-expert-thumb.png",
+        "bytes": 20221,
+        "sha256": "f4b734b060d3f439a21a874d3b0ac5c4475fd1d194c9e23297a7338937f8ab2e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-royal-crown-expert",
+        "title": "Royal Crown",
+        "category": "Fantasy",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-fantasy-royal-crown-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-royal-crown-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-royal-crown-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-expert-image.png",
+        "bytes": 115477,
+        "sha256": "b929b4c509a97792906cf45f62cec9cd9c0f94c137ce70682fa054523f51235f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-expert-thumb.png",
+        "bytes": 15969,
+        "sha256": "d00d77b094cc2626f7d37def6e48576cc823e88e37c24ecf347ffef0a8a5257a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-wizard-wishes-expert",
+        "title": "Wizard Wishes",
+        "category": "Fantasy",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-fantasy-wizard-wishes-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-wizard-wishes-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-wizard-wishes-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-expert-image.png",
+        "bytes": 134180,
+        "sha256": "9566b2a64726603ea3a5bfb21d22b62c23bc334619a4d535050e95e35fe80cdb"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-expert-thumb.png",
+        "bytes": 18569,
+        "sha256": "d27093a183f4c160960482f1fa53a03866d690d61fd7118e55834321d51e2a85"
+      }
+    }
+  ]
+}

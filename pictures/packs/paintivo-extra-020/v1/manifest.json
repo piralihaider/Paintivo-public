@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-020",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-sports-skateboard-park-expert",
+        "title": "Skateboard Park",
+        "category": "Sports",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-sports-skateboard-park-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-skateboard-park-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-skateboard-park-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-expert-image.png",
+        "bytes": 104364,
+        "sha256": "c1a545f19968e7f01e647a715a38cb6bad362e60c46ed8d61cd1639b23c00859"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-expert-thumb.png",
+        "bytes": 15027,
+        "sha256": "d954d17c83d20eaf20d07857c0e30383eeb32c55b4e46dcae655020b77047041"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-bicycle-ride-expert",
+        "title": "Bicycle Ride",
+        "category": "Sports",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-sports-bicycle-ride-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-bicycle-ride-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-bicycle-ride-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-expert-image.png",
+        "bytes": 118537,
+        "sha256": "c1128a203ac79064468106ef1ac20659de26f6935b661859bfdc21531069eee8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-expert-thumb.png",
+        "bytes": 16628,
+        "sha256": "3fbd1be1c17fd16fed27c38539b2e7abb3bcb5b7c0ddecc6ec0f82494e9e06e2"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-explorer-bot-expert",
+        "title": "Explorer Bot",
+        "category": "Robots",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-robots-explorer-bot-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-explorer-bot-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-explorer-bot-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-explorer-bot-expert-image.png",
+        "bytes": 160039,
+        "sha256": "cf4c254ea659eefe13599bc7d4852decfd9581efec5a822c85aa678cf8421cb0"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-explorer-bot-expert-thumb.png",
+        "bytes": 25965,
+        "sha256": "014498e9c27e143c57afb96dc0e67025b9d443a3c3242a83b70704b91c8c70b6"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-friendly-android-expert",
+        "title": "Friendly Android",
+        "category": "Robots",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-robots-friendly-android-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-friendly-android-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-friendly-android-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-friendly-android-expert-image.png",
+        "bytes": 162254,
+        "sha256": "2c0af183a905790ab354c418090903d58248f30de8c4c11ace092d187ef49a96"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-friendly-android-expert-thumb.png",
+        "bytes": 26222,
+        "sha256": "c7c5a9fd405a1ae13559678c9c4d8964999977f7febd33f87b166ad781fe695b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-builder-bot-expert",
+        "title": "Builder Bot",
+        "category": "Robots",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-robots-builder-bot-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-builder-bot-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-builder-bot-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-builder-bot-expert-image.png",
+        "bytes": 160626,
+        "sha256": "6332d16d2405f050cf921b8848d5b5fd50e26aed63bbe1300dda04e4421a52d8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-builder-bot-expert-thumb.png",
+        "bytes": 25815,
+        "sha256": "d140f473cce8938f77f73a3b83dc8ac91e9fd1669694c9aed214fda4bc4e917f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-retro-robot-expert",
+        "title": "Retro Robot",
+        "category": "Robots",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-robots-retro-robot-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-retro-robot-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-retro-robot-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-retro-robot-expert-image.png",
+        "bytes": 157466,
+        "sha256": "171bb4e9f46a297d3db144808bf2b6b05eea843050e667683700f658d557e222"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-retro-robot-expert-thumb.png",
+        "bytes": 25619,
+        "sha256": "49fab64ae971dee01ba32136f3561f78ad59b3697e30a8ed3b8fdb943ee7f739"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-butterfly-wings-expert",
+        "title": "Butterfly Wings",
+        "category": "Insects",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-insects-butterfly-wings-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-butterfly-wings-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-butterfly-wings-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-butterfly-wings-expert-image.png",
+        "bytes": 152306,
+        "sha256": "a349b40850348710022eccd6eff4d660c9a0c71fb955c4b747b38fa3fc350053"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-butterfly-wings-expert-thumb.png",
+        "bytes": 22209,
+        "sha256": "44b3f89eecb167b7611f0bee4c27c46dc997214a7300ad3d201a09db63574251"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-happy-caterpillar-expert",
+        "title": "Happy Caterpillar",
+        "category": "Insects",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-insects-happy-caterpillar-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-happy-caterpillar-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-happy-caterpillar-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-expert-image.png",
+        "bytes": 137270,
+        "sha256": "913585d181c6edcdba06b0a66c2dcd22833d326ef4eff2ec87ee8e252e78ad73"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-expert-thumb.png",
+        "bytes": 20893,
+        "sha256": "6690a7ed88a329d83b156749cdccce5d341afd0a78756463198a79f735b7a5e2"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-little-ant-expert",
+        "title": "Little Ant",
+        "category": "Insects",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-insects-little-ant-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-little-ant-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-little-ant-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-little-ant-expert-image.png",
+        "bytes": 122843,
+        "sha256": "4faac7122a14efc42bab1875450ab4039af51f7aa3dc66e7b3ae267e36df58cc"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-little-ant-expert-thumb.png",
+        "bytes": 18799,
+        "sha256": "ebbfee01882508107fdea82b5f5ce550f15ce43a824bcbbe6ee01efd03e9fb5c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-dragonfly-flight-expert",
+        "title": "Dragonfly Flight",
+        "category": "Insects",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-insects-dragonfly-flight-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-dragonfly-flight-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-dragonfly-flight-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-expert-image.png",
+        "bytes": 146989,
+        "sha256": "0ac99aff79a0036335ad6e4b26a81f2500e135da4a311179f53c1bd9408b49eb"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-expert-thumb.png",
+        "bytes": 21604,
+        "sha256": "bf768a14cb1f6e16c0d55583c270b562806719352fbf5bf8dd29a352f2912a25"
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-007",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-sports-bicycle-ride-basic",
+        "title": "Bicycle Ride",
+        "category": "Sports",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-sports-bicycle-ride-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-bicycle-ride-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-bicycle-ride-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-basic-image.png",
+        "bytes": 72251,
+        "sha256": "fcb9c6e8df72300bfd276d16cfaedf2b7a82f69416a777b0ce46e2507394260f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-bicycle-ride-basic-thumb.png",
+        "bytes": 8855,
+        "sha256": "f181253a3b88b54ec888fa3316d1f984b16d77053899d27757570858361bb5ff"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-boxing-gloves-basic",
+        "title": "Boxing Gloves",
+        "category": "Sports",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-sports-boxing-gloves-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-boxing-gloves-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-boxing-gloves-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-boxing-gloves-basic-image.png",
+        "bytes": 65930,
+        "sha256": "419faa5892c40fbcdd5751b98f4ca3b452de3e5d3ca6f8e8a83e668f813f9c43"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-boxing-gloves-basic-thumb.png",
+        "bytes": 7670,
+        "sha256": "5d7286423565ca175951743fef6aa0f566f5b766a3465728b742c2a181eb5a5f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-friendly-android-basic",
+        "title": "Friendly Android",
+        "category": "Robots",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-robots-friendly-android-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-friendly-android-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-friendly-android-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-friendly-android-basic-image.png",
+        "bytes": 69829,
+        "sha256": "fd397f811889f376ed14caabe6c296d5e96a9e1a7e695d13e712f783d3631951"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-friendly-android-basic-thumb.png",
+        "bytes": 8883,
+        "sha256": "0d4da4ed339b9ca85e78be475b3e4b6b7b294aaf3e9280dcf9603e1ba7a2d736"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-builder-bot-basic",
+        "title": "Builder Bot",
+        "category": "Robots",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-robots-builder-bot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-builder-bot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-builder-bot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-builder-bot-basic-image.png",
+        "bytes": 66402,
+        "sha256": "f6b7bb6d547400901f4072b658a818c585a70f3af958cc50bc76d46bc8690d5b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-builder-bot-basic-thumb.png",
+        "bytes": 8364,
+        "sha256": "c5fabb380c5168db99850e23065c1475b3b658a261de41de2428a44b0f61265b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-retro-robot-basic",
+        "title": "Retro Robot",
+        "category": "Robots",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-robots-retro-robot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-retro-robot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-retro-robot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-retro-robot-basic-image.png",
+        "bytes": 61676,
+        "sha256": "b80172e090d430df7182625026d3f4eca8d05aa45183be46cff081533686fe83"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-retro-robot-basic-thumb.png",
+        "bytes": 7870,
+        "sha256": "28e8c1661dfa1a4158f6f22e447ea25bd1297b644e913b42bd2e33b851ae462d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-orbit-bot-basic",
+        "title": "Orbit Bot",
+        "category": "Robots",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-robots-orbit-bot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-orbit-bot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-orbit-bot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-orbit-bot-basic-image.png",
+        "bytes": 76297,
+        "sha256": "433a58f04043419a25a340a562e8c5cbdd32ec59adfa680ce0e33cd0be6fcf23"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-orbit-bot-basic-thumb.png",
+        "bytes": 9823,
+        "sha256": "626c6d564edfc9bd35e16e21f5ea0334d405d96f426b3f02448e74981dcc63cd"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-happy-caterpillar-basic",
+        "title": "Happy Caterpillar",
+        "category": "Insects",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-insects-happy-caterpillar-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-happy-caterpillar-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-happy-caterpillar-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-basic-image.png",
+        "bytes": 78208,
+        "sha256": "9f9479351122f76c78162ce6adcbb23ecbab7e96f3e51ea5f1aa7f7bf7235eb0"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-basic-thumb.png",
+        "bytes": 10467,
+        "sha256": "06fe66b3de4795e98d58defa398f287ba01c2cc6e9189f56846d17517bf4ff1b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-little-ant-basic",
+        "title": "Little Ant",
+        "category": "Insects",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-insects-little-ant-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-little-ant-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-little-ant-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-little-ant-basic-image.png",
+        "bytes": 68141,
+        "sha256": "d8535ec196299acd5d1eda59e0afc70fdcf15e781c2097596365e190eb3038c3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-little-ant-basic-thumb.png",
+        "bytes": 8885,
+        "sha256": "a28054579f3f929c38f85e6485990cb766bf08331deca53c4cdec38862b72d4b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-dragonfly-flight-basic",
+        "title": "Dragonfly Flight",
+        "category": "Insects",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-insects-dragonfly-flight-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-dragonfly-flight-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-dragonfly-flight-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-basic-image.png",
+        "bytes": 90228,
+        "sha256": "005e4ee29f2f95efa0e095b20d3ed49928ca6d3506feb52e597dab250c67012d"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-basic-thumb.png",
+        "bytes": 10923,
+        "sha256": "09cdd671f9a9f7ee4c6ef30524a5a9c6893d3ac51520eab544a96a5611d02bed"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-snail-trail-basic",
+        "title": "Snail Trail",
+        "category": "Insects",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-insects-snail-trail-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-snail-trail-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-snail-trail-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-snail-trail-basic-image.png",
+        "bytes": 75795,
+        "sha256": "1dc139bd88a41f66e5fc77755424bc11bdf72c0cc21b2fe0147174cbf457e79a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-snail-trail-basic-thumb.png",
+        "bytes": 9407,
+        "sha256": "8ecbf092b1ced9e4a7c6d19fe582aa74412b7305abce3d1bd051d0c1f49a6e73"
+      }
+    }
+  ]
+}

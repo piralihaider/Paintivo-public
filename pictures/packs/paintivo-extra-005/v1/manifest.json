@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-005",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-birds-farm-rooster-basic",
+        "title": "Farm Rooster",
+        "category": "Birds",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-birds-farm-rooster-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-farm-rooster-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-farm-rooster-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-basic-image.png",
+        "bytes": 88306,
+        "sha256": "21166fac86a245a815fccddc238f8cc492a13783595bed0fa5ae9f8b6ed8fd5b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-basic-thumb.png",
+        "bytes": 10531,
+        "sha256": "ebac972518e7ea597bf10c1b6ba08824331be567c0ebc742ec503e98178b37f3"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-pink-flamingo-basic",
+        "title": "Pink Flamingo",
+        "category": "Birds",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-birds-pink-flamingo-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-pink-flamingo-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-pink-flamingo-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-basic-image.png",
+        "bytes": 74315,
+        "sha256": "a2b05b74c507cde781a2564b6bbf72c1ec8315144b4bc52dd1d22613763d19a4"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-basic-thumb.png",
+        "bytes": 9512,
+        "sha256": "415a5f98b14745563b011931026d9f75a49deaf39d78a639c45350da0740a24a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-crested-parrot-basic",
+        "title": "Crested Parrot",
+        "category": "Birds",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-birds-crested-parrot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-crested-parrot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-crested-parrot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-crested-parrot-basic-image.png",
+        "bytes": 81932,
+        "sha256": "c2c84c256f15b0099260cac12e150111b26a92ef0f84648fbcfc9e1ab33f1dfc"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-crested-parrot-basic-thumb.png",
+        "bytes": 9561,
+        "sha256": "a1fe33d10f880ab2cf1604daf98bf5121751791eae041f9fe7fec2a29ccad271"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-sea-turtle-basic",
+        "title": "Sea Turtle",
+        "category": "Ocean",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-ocean-sea-turtle-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-sea-turtle-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-sea-turtle-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-basic-image.png",
+        "bytes": 90904,
+        "sha256": "ec155efd49542a3c99daa660f985dcb0d494530b871a0f09c2edb5e888926b29"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-basic-thumb.png",
+        "bytes": 11536,
+        "sha256": "c95df5763a461ce0adace626715fc81796e79d2b70367f8bca10451165219ace"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-little-seahorse-basic",
+        "title": "Little Seahorse",
+        "category": "Ocean",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-ocean-little-seahorse-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-little-seahorse-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-little-seahorse-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-basic-image.png",
+        "bytes": 76530,
+        "sha256": "997dfda4039a8f59dc9432aa75c6c03eee27d49ad2be6b7af8f178551c55880c"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-basic-thumb.png",
+        "bytes": 9338,
+        "sha256": "be0a9cb7e068bfa4820ee2a18a94532f72ef006ec6aeba832803e6b1f8875dca"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-sandy-crab-basic",
+        "title": "Sandy Crab",
+        "category": "Ocean",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-ocean-sandy-crab-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-sandy-crab-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-sandy-crab-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-sandy-crab-basic-image.png",
+        "bytes": 76031,
+        "sha256": "730d24430ae4c3a9319a11d69ae344227217d4a9bbda1c62221767742b3a5238"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-sandy-crab-basic-thumb.png",
+        "bytes": 9737,
+        "sha256": "b8b5421a46b88ceb6b6436ec4760b82dedd890e0669dd19a071e4e7ac78869e1"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-friendly-tyrannosaur-basic",
+        "title": "Friendly Tyrannosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-friendly-tyrannosaur-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-basic-image.png",
+        "bytes": 76631,
+        "sha256": "d85122961495d481630c55e405ae35d055cb6f0e532c800cab9d84586d55034e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-basic-thumb.png",
+        "bytes": 9652,
+        "sha256": "1e3028ce741382fb04525e78c0649d8f233e2ef660073b64e935ab53b9509f5c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-armoured-dinosaur-basic",
+        "title": "Armoured Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-armoured-dinosaur-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-basic-image.png",
+        "bytes": 80817,
+        "sha256": "11853351c8c7be23e05ffb3898e5d0fe212af396b79e3bec54fb41f8fc4114fe"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-basic-thumb.png",
+        "bytes": 10737,
+        "sha256": "f6719cbc46d6c8b19d24c30091ae5b49ef0506a70ff8fa0f82c8affd56d24d80"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-hatching-dinosaur-basic",
+        "title": "Hatching Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-hatching-dinosaur-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-basic-image.png",
+        "bytes": 77243,
+        "sha256": "07d1132596ddba29e6e77e8ccdee758480a88a66d9052d79f2c6b9cccfb10293"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-basic-thumb.png",
+        "bytes": 10049,
+        "sha256": "15fe5eb6a4181de9c42923f22ab54aee3f41107e5a576d5cbbaa2edaa24c65e3"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-royal-crown-basic",
+        "title": "Royal Crown",
+        "category": "Fantasy",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-fantasy-royal-crown-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-royal-crown-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-royal-crown-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-basic-image.png",
+        "bytes": 62930,
+        "sha256": "a820465fe393f6e660f49c6019d4da263ceb807332d96d221798564176240b12"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-basic-thumb.png",
+        "bytes": 6981,
+        "sha256": "ecd2fe5859e71463a623c70267cc00e8cc2c6a9cc95eff47a04bc8bd7ffafef7"
+      }
+    }
+  ]
+}

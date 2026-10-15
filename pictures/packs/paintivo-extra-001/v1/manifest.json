@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-001",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-animals-happy-puppy-basic",
+        "title": "Happy Puppy",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-happy-puppy-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-happy-puppy-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-happy-puppy-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-happy-puppy-basic-image.png",
+        "bytes": 76053,
+        "sha256": "08bb59516b95759ce7a721316982b7798b88bafa5d492384bc64cf99e6cd1006"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-happy-puppy-basic-thumb.png",
+        "bytes": 9995,
+        "sha256": "10813ae7e69c7824abff8d3776e14511d641b8690cebb37a4a1fb20aec991772"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-bunny-with-carrot-basic",
+        "title": "Bunny with Carrot",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-bunny-with-carrot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-bunny-with-carrot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-bunny-with-carrot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-basic-image.png",
+        "bytes": 82243,
+        "sha256": "6e96983a6889be9e939fc0986d2b08f5bd2f1abbf73515c76ac849a0ec07b6cc"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-basic-thumb.png",
+        "bytes": 11611,
+        "sha256": "15927139280f620a14bb6384d5d9ac4c2bdfb89bd9d7204e77e260c034d34c5a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-little-lion-basic",
+        "title": "Little Lion",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-little-lion-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-little-lion-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-little-lion-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-little-lion-basic-image.png",
+        "bytes": 108171,
+        "sha256": "c120f631d194ba1e234a785aa520a579c40225d2e1b7605a6b5bf0f1615bb740"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-little-lion-basic-thumb.png",
+        "bytes": 13820,
+        "sha256": "ac693b99a1aceb7fe122120d44fddf0ea408283403331f6aa1d17e68559f8353"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-forest-fox-basic",
+        "title": "Forest Fox",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-forest-fox-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-forest-fox-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-forest-fox-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-forest-fox-basic-image.png",
+        "bytes": 76547,
+        "sha256": "8566e531a029311e364e30925d88b265f340b784432e6411096e9d0a54166475"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-forest-fox-basic-thumb.png",
+        "bytes": 9835,
+        "sha256": "561ec4e9ea988f2b2f766def4e1f136b318aba458b76add6e51f6ec779a2c2db"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-honey-bear-basic",
+        "title": "Honey Bear",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-honey-bear-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-honey-bear-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-honey-bear-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-honey-bear-basic-image.png",
+        "bytes": 83016,
+        "sha256": "b8d567075094efd36817794261790c2b2c32172b887cea5773185e77d44ff6fa"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-honey-bear-basic-thumb.png",
+        "bytes": 10947,
+        "sha256": "a0539f1b040fbbf260d9a8cfa389433037525007b8aeed17f68e25eb21a9a188"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-gentle-elephant-basic",
+        "title": "Gentle Elephant",
+        "category": "Animals",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-animals-gentle-elephant-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-gentle-elephant-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-gentle-elephant-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-gentle-elephant-basic-image.png",
+        "bytes": 81420,
+        "sha256": "3fa957c34f6ac59d52616cdc2d94b8a48695fced8db96a8e4e8e72537fda9058"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-gentle-elephant-basic-thumb.png",
+        "bytes": 10721,
+        "sha256": "c144ad457db52cdfd4942ea6696e2fd228b8a11ba6e3f3816a243da06e989c8c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-apple-orchard-basic",
+        "title": "Apple Orchard",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-apple-orchard-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-apple-orchard-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-apple-orchard-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-apple-orchard-basic-image.png",
+        "bytes": 71578,
+        "sha256": "b2f61dbbbfb0cf55315b7265ba9910796acffc417578b37c4f17f37ca45fe789"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-apple-orchard-basic-thumb.png",
+        "bytes": 8432,
+        "sha256": "d0e75038ea4db6947976c4f5f6fde2473f4a7a4686c37058977f237464f08365"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-rainbow-sky-basic",
+        "title": "Rainbow Sky",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-rainbow-sky-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-rainbow-sky-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-rainbow-sky-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-basic-image.png",
+        "bytes": 65737,
+        "sha256": "8f7d89f88686dac6deed8e3034702c57ffad8f1e77601e312663b931f15a4f34"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-basic-thumb.png",
+        "bytes": 8617,
+        "sha256": "b731cc8aebee02faa9e3a4fb44d8aa13a47d26eacdbe9e4bde81553daf50be5c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-forest-mushrooms-basic",
+        "title": "Forest Mushrooms",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-forest-mushrooms-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-forest-mushrooms-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-forest-mushrooms-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-forest-mushrooms-basic-image.png",
+        "bytes": 74199,
+        "sha256": "f437979d8fba79fa7fdeb700f70dfe531c0026ff6e463648bcfa65332e34d289"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-forest-mushrooms-basic-thumb.png",
+        "bytes": 8829,
+        "sha256": "62454b6f0709d19c774ef646db61525bda3faefb27251d44f75f75cab24adb2e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-mountain-peaks-basic",
+        "title": "Mountain Peaks",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-mountain-peaks-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-mountain-peaks-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-mountain-peaks-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-mountain-peaks-basic-image.png",
+        "bytes": 87693,
+        "sha256": "3e74aabc764da175a093175dc6760ccb98385bc0a8c2308f673f785756f2cb6b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-mountain-peaks-basic-thumb.png",
+        "bytes": 9772,
+        "sha256": "f8304dc314c289ef74af2c4a5683181a12968b2be667780d1adf105a38624546"
+      }
+    }
+  ]
+}

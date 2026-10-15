@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-004",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-balloon-journey-basic",
+        "title": "Balloon Journey",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-balloon-journey-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-balloon-journey-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-balloon-journey-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-balloon-journey-basic-image.png",
+        "bytes": 87421,
+        "sha256": "c224358e5383d1e331fe5ac3ada3a515729ab8abcfe4e20d3e6bd58bb1f1c9df"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-balloon-journey-basic-thumb.png",
+        "bytes": 9920,
+        "sha256": "1be6691c7acb44f1b22ede4150d4245e68a1a43a89ed393ef6caa6b80b6ac60d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-delivery-truck-basic",
+        "title": "Delivery Truck",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-delivery-truck-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-delivery-truck-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-delivery-truck-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-delivery-truck-basic-image.png",
+        "bytes": 59730,
+        "sha256": "4f798a3a7bc183ccab8ab8dfbfcd176900a0f0312713d3645382d7862f77503f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-delivery-truck-basic-thumb.png",
+        "bytes": 8480,
+        "sha256": "dc948515f695c05516e87129eb3ecdc11a38a631d46edd68fa06ae09482fc044"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-steam-engine-basic",
+        "title": "Steam Engine",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-steam-engine-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-steam-engine-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-steam-engine-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-steam-engine-basic-image.png",
+        "bytes": 67515,
+        "sha256": "7e159f55ca34b5b9254c3f7986f5f6dd22243dee1a0337077c3692b61e366856"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-steam-engine-basic-thumb.png",
+        "bytes": 8030,
+        "sha256": "b47b74e4ca12949f79bd868fe9541671d0db774340f7d3164a06a4c3d308069c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-juicy-apple-basic",
+        "title": "Juicy Apple",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-juicy-apple-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-juicy-apple-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-juicy-apple-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-juicy-apple-basic-image.png",
+        "bytes": 81865,
+        "sha256": "5093e132eb9e616818448ce3ff6c16107b87cec04f498fc6f52974ae2d53f56b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-juicy-apple-basic-thumb.png",
+        "bytes": 9028,
+        "sha256": "79a2866d52679b2714c37f736845682acae34db6470aa1420807a9f0059ebb92"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-cherry-cupcake-basic",
+        "title": "Cherry Cupcake",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-cherry-cupcake-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-cherry-cupcake-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-cherry-cupcake-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-cherry-cupcake-basic-image.png",
+        "bytes": 66879,
+        "sha256": "63d3e3b1899ddb0445e144fe914670d150de57719c00a72d50903a1b529fb0b7"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-cherry-cupcake-basic-thumb.png",
+        "bytes": 7246,
+        "sha256": "08c8f488cb91eb0124eff103e9577988513e4b6dfda282c74413a6ff649ee124"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-family-pizza-basic",
+        "title": "Family Pizza",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-family-pizza-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-family-pizza-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-family-pizza-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-family-pizza-basic-image.png",
+        "bytes": 112993,
+        "sha256": "55ee127176a4b1c90899710557a5ab7d6817b288866b5ed35e796c47d0fcbdaf"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-family-pizza-basic-thumb.png",
+        "bytes": 13033,
+        "sha256": "dc9d62c826e51a81ee68079e779da31659f8a0c487ebf8355f4919b5b80b7e97"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-rainbow-ice-pop-basic",
+        "title": "Rainbow Ice Pop",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-rainbow-ice-pop-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-rainbow-ice-pop-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-rainbow-ice-pop-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-rainbow-ice-pop-basic-image.png",
+        "bytes": 51186,
+        "sha256": "d070ee53eb09bb7e37e45dfa2811eec2648ec26b2dedff09035a1a2835cf49cb"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-rainbow-ice-pop-basic-thumb.png",
+        "bytes": 5749,
+        "sha256": "02d4fdd412d6632eaa6535c9449a4fa85c6f8380a74743361355944bcc095ba8"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-picnic-burger-basic",
+        "title": "Picnic Burger",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-picnic-burger-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-picnic-burger-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-picnic-burger-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-picnic-burger-basic-image.png",
+        "bytes": 63660,
+        "sha256": "3eca0d01c77739ef202e6045f45f5b6f3d122acc88c68e53fbb09d0e19712985"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-picnic-burger-basic-thumb.png",
+        "bytes": 8188,
+        "sha256": "c5bd95dc717c79dca9a763eb726631a41bbe4c529a1c0c2be7f50aa421373e23"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-fruit-bowl-basic",
+        "title": "Fruit Bowl",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-fruit-bowl-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-fruit-bowl-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-fruit-bowl-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-fruit-bowl-basic-image.png",
+        "bytes": 68735,
+        "sha256": "1f811484ca2ec1effbb02358bd655b04992ebd16d0b3d46a99d86607d6ff22f3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-fruit-bowl-basic-thumb.png",
+        "bytes": 8415,
+        "sha256": "4d5ae949d689205291cb61922df2816a432902d4fe08ef4fd628e9b62a60dbc0"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-party-cake-basic",
+        "title": "Party Cake",
+        "category": "Food",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-food-party-cake-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-food-party-cake-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-party-cake-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-party-cake-basic-image.png",
+        "bytes": 69756,
+        "sha256": "3b6a4e3a8b8077651bd7042ce21fcecc67e935d4879d76d87db3beb57e88d7c3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-party-cake-basic-thumb.png",
+        "bytes": 7523,
+        "sha256": "a2ce82d9b78f6c56e53c87be5e840da8de4b7d6e9ec88b4dafbf044aa2bd7b65"
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-016",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-space-space-walker-expert",
+        "title": "Space Walker",
+        "category": "Space",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-space-space-walker-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-space-space-walker-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-space-walker-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-space-walker-expert-image.png",
+        "bytes": 120110,
+        "sha256": "f8d0c3833cc49f14b6a2a0bcc475356f5efabceed160942af62d1b80aab90f86"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-space-walker-expert-thumb.png",
+        "bytes": 19037,
+        "sha256": "f36a4bef40178521eca532fc5bc2fa4863882707c4ffc25f5bc1fc9a5888db34"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-alien-visitor-expert",
+        "title": "Alien Visitor",
+        "category": "Space",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-space-alien-visitor-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-space-alien-visitor-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-alien-visitor-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-alien-visitor-expert-image.png",
+        "bytes": 135264,
+        "sha256": "b88b6ffa25d6757b61001d94d0e22cc3f761278fab9726942e920000c946494f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-alien-visitor-expert-thumb.png",
+        "bytes": 20817,
+        "sha256": "992c784e7409d86ae21ea5d2745744fa7cf92b85a2b8a58e28f5c18a7253be90"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-lunar-rover-expert",
+        "title": "Lunar Rover",
+        "category": "Space",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-space-lunar-rover-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-space-lunar-rover-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-lunar-rover-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-lunar-rover-expert-image.png",
+        "bytes": 125835,
+        "sha256": "b930527cd85c2fe7ad90e8a3dacf9367be99076438de701726ab537cd6f457c0"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-lunar-rover-expert-thumb.png",
+        "bytes": 19474,
+        "sha256": "ba302d0b3d4645d64388e2c4661eea0b291b5be8e9a3786027788d06b18de8bd"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-crescent-dreams-expert",
+        "title": "Crescent Dreams",
+        "category": "Space",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-space-crescent-dreams-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-space-crescent-dreams-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-crescent-dreams-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-crescent-dreams-expert-image.png",
+        "bytes": 133480,
+        "sha256": "d4dad2ed04162888fcc8ee492c7a6db06d18570d5cb3602434fbc78e2545a934"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-crescent-dreams-expert-thumb.png",
+        "bytes": 20297,
+        "sha256": "f64ba07c7f6bbb004cfc2c825d25bbfc400c1e84d603c75b0a41f0b2b202db0d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-five-petal-harmony-expert",
+        "title": "Five Petal Harmony",
+        "category": "Mandalas",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-mandalas-five-petal-harmony-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-five-petal-harmony-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-five-petal-harmony-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-expert-image.png",
+        "bytes": 161526,
+        "sha256": "9395c419679dc72e1b70b17ea04401812ab5d855b8a67dd148bfd9dfd8ab8f35"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-expert-thumb.png",
+        "bytes": 21509,
+        "sha256": "3525500ac687ad2b1ea2d2af2dfa86760dbec26ce86d7af032d0edc6038dc03a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-sun-ray-circle-expert",
+        "title": "Sun Ray Circle",
+        "category": "Mandalas",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-mandalas-sun-ray-circle-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-sun-ray-circle-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-sun-ray-circle-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-sun-ray-circle-expert-image.png",
+        "bytes": 194761,
+        "sha256": "b964f5c421335c0990cf36a4fdfba753e380bdf9eb252dbdbf5f354d2ec66ace"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-sun-ray-circle-expert-thumb.png",
+        "bytes": 25395,
+        "sha256": "61d2daa3cc522470f56cf8efd8e88bc00aa7b9e3ebbc3471d1da7880a92781ba"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-leaf-mosaic-expert",
+        "title": "Leaf Mosaic",
+        "category": "Mandalas",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-mandalas-leaf-mosaic-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-leaf-mosaic-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-leaf-mosaic-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-leaf-mosaic-expert-image.png",
+        "bytes": 180682,
+        "sha256": "41512f2aa3a117fbaf35ada8dbd19b2c32925b579ecf29a34bda05b6a0654495"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-leaf-mosaic-expert-thumb.png",
+        "bytes": 23805,
+        "sha256": "e14a23dc186fb3066abcedb93b6fb69244066798b5ad8a4aab991d0d5c922517"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-cloud-aeroplane-expert",
+        "title": "Cloud Aeroplane",
+        "category": "Vehicles",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-vehicles-cloud-aeroplane-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-cloud-aeroplane-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-cloud-aeroplane-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-expert-image.png",
+        "bytes": 166470,
+        "sha256": "1e825734a55f623bf66eac30226cfe7043bc9b3be006e08532475eec789e8004"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-expert-thumb.png",
+        "bytes": 26246,
+        "sha256": "b501108ea9f6e818d51ec6afc6f9a87e12b24008ead63bdac1804d53ae98d855"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-ocean-sailboat-expert",
+        "title": "Ocean Sailboat",
+        "category": "Vehicles",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-vehicles-ocean-sailboat-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-ocean-sailboat-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-ocean-sailboat-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-ocean-sailboat-expert-image.png",
+        "bytes": 155529,
+        "sha256": "5cc33decf1878c14d60538aff864b66efd77465d8502741be4e71b5be65715ec"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-ocean-sailboat-expert-thumb.png",
+        "bytes": 24238,
+        "sha256": "194aed710a9d4887d8eea3c1c99559678d0808c4f2a445c3cb98d6af12cb373d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-balloon-journey-expert",
+        "title": "Balloon Journey",
+        "category": "Vehicles",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-vehicles-balloon-journey-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-balloon-journey-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-balloon-journey-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-balloon-journey-expert-image.png",
+        "bytes": 172816,
+        "sha256": "75ee5ef31be7380bd53555b02e206a725028234353c8e637ea71ea7c89d6a1ec"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-balloon-journey-expert-thumb.png",
+        "bytes": 26028,
+        "sha256": "9f9b2fc3ec8d7be549736f300a2d9d5d82d192d29ef5e12b4302cff8704b8226"
+      }
+    }
+  ]
+}

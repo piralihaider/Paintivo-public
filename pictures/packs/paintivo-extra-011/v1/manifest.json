@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-011",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-hatching-dinosaur-intermediate",
+        "title": "Hatching Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-hatching-dinosaur-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-intermediate-image.png",
+        "bytes": 118707,
+        "sha256": "22e0ef003a23c9734b2ddf4c291505b1ce0cf55210b8fb05bf614bac2ed7cb70"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-hatching-dinosaur-intermediate-thumb.png",
+        "bytes": 15362,
+        "sha256": "7b64b428965ce928ad26d263717df5a3736364fccd758ef1cec6ab7ac932e4b7"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-storybook-castle-intermediate",
+        "title": "Storybook Castle",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-storybook-castle-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-storybook-castle-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-storybook-castle-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-storybook-castle-intermediate-image.png",
+        "bytes": 91020,
+        "sha256": "87fb5a7ee49fe7d618cfae94c208428f334269bcf566a31743b0abd820b78602"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-storybook-castle-intermediate-thumb.png",
+        "bytes": 12148,
+        "sha256": "17e59d4aef11b7efcc4c6aa92f332dded8c89d48147cde2b05dea36e43cd19b9"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-magical-unicorn-intermediate",
+        "title": "Magical Unicorn",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-magical-unicorn-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-magical-unicorn-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-magical-unicorn-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-magical-unicorn-intermediate-image.png",
+        "bytes": 135828,
+        "sha256": "6eca9599e033eba5a23376e23a0637fd41c096885592462918cb81e123855205"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-magical-unicorn-intermediate-thumb.png",
+        "bytes": 17006,
+        "sha256": "694b9ab3b73e0c353466341512df7d98b32ecb19cb8386bd520229b127fdb23f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-friendly-dragon-intermediate",
+        "title": "Friendly Dragon",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-friendly-dragon-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-friendly-dragon-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-friendly-dragon-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-friendly-dragon-intermediate-image.png",
+        "bytes": 121234,
+        "sha256": "1f62bb907e9c8a98cd470b3f2448e2101094577472ff49fa94546cc2ed9b8a53"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-friendly-dragon-intermediate-thumb.png",
+        "bytes": 16003,
+        "sha256": "cf0bf50b585151fde057685e49c36e0aaf050d7140f5bf4c54a56247f2ea3109"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-garden-fairy-intermediate",
+        "title": "Garden Fairy",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-garden-fairy-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-garden-fairy-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-garden-fairy-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-garden-fairy-intermediate-image.png",
+        "bytes": 151496,
+        "sha256": "6e7725691fd464545bebee9471555c79a474d5221245ebb44375e880fa944023"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-garden-fairy-intermediate-thumb.png",
+        "bytes": 18819,
+        "sha256": "aa75f471d28028f0b9cc07eb970ef5c57b863794476524b8a11289345b684e8f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-royal-crown-intermediate",
+        "title": "Royal Crown",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-royal-crown-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-royal-crown-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-royal-crown-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-intermediate-image.png",
+        "bytes": 101434,
+        "sha256": "b803aaeb545f6a05270682480af4c6b7b587445cf63850279639fdb1b7805ab5"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-royal-crown-intermediate-thumb.png",
+        "bytes": 12695,
+        "sha256": "65b67ff39943ee127278988047248622d7840aba2924cf47f4aa8841f4d77e39"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-wizard-wishes-intermediate",
+        "title": "Wizard Wishes",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-wizard-wishes-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-wizard-wishes-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-wizard-wishes-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-intermediate-image.png",
+        "bytes": 132025,
+        "sha256": "b4764d3b4192b0a1c55ff0a5081f4923c86c6b76512f2f5ffd2900ae06b906d4"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-intermediate-thumb.png",
+        "bytes": 16422,
+        "sha256": "e6c7c4c04cc6a9d8f2f4aa3d3238319cb1a9be3d2d15de020113241e93be88bf"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-treasure-chest-intermediate",
+        "title": "Treasure Chest",
+        "category": "Fantasy",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-fantasy-treasure-chest-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-treasure-chest-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-treasure-chest-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-treasure-chest-intermediate-image.png",
+        "bytes": 91094,
+        "sha256": "fc7e59833382dea3731e4be3640f31b2ceb56c7c51b5f27828a8864230e9179f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-treasure-chest-intermediate-thumb.png",
+        "bytes": 12035,
+        "sha256": "a58d80960fba64b8fe8a62455d9beb473b1abcae3fd0dd31235227e17ce24e10"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-cosy-cottage-intermediate",
+        "title": "Cosy Cottage",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-cosy-cottage-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-cosy-cottage-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-cosy-cottage-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-cosy-cottage-intermediate-image.png",
+        "bytes": 87762,
+        "sha256": "0119ac889aa10173fb2f21202f1503cdea2540d41dbc9197fa1a80658b97efc7"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-cosy-cottage-intermediate-thumb.png",
+        "bytes": 10314,
+        "sha256": "c83bf21eb04f8ba72b3e47d970141b35410ffac5c1626ae920a4b54d0c625277"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-coastal-lighthouse-intermediate",
+        "title": "Coastal Lighthouse",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-coastal-lighthouse-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-coastal-lighthouse-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-coastal-lighthouse-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-coastal-lighthouse-intermediate-image.png",
+        "bytes": 106164,
+        "sha256": "6c8ffc72c63423f0089839c860ef2f9091a5410fffc09321283564c4db25373f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-coastal-lighthouse-intermediate-thumb.png",
+        "bytes": 13182,
+        "sha256": "add9b8873f5d0ab2b13c8c115119520eb2208567ac5ea6ec636c7509ad332844"
+      }
+    }
+  ]
+}

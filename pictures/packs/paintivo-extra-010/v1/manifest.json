@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-010",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-curious-octopus-intermediate",
+        "title": "Curious Octopus",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-curious-octopus-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-curious-octopus-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-curious-octopus-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-curious-octopus-intermediate-image.png",
+        "bytes": 122088,
+        "sha256": "ca21069c14f5c326f1527a0c1cbd3ad1d0c3c6eb53bdb2506303be3bfe8fd873"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-curious-octopus-intermediate-thumb.png",
+        "bytes": 14979,
+        "sha256": "bfc942adf5cdd535ee05188309f327f74a993743748007d1435a27f1665181eb"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-floating-jellyfish-intermediate",
+        "title": "Floating Jellyfish",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-floating-jellyfish-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-floating-jellyfish-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-floating-jellyfish-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-floating-jellyfish-intermediate-image.png",
+        "bytes": 88705,
+        "sha256": "f0fe1dc918c18cd9ea122670e81afbd1c9afac5f3de449208a146a95adc8c0f1"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-floating-jellyfish-intermediate-thumb.png",
+        "bytes": 15232,
+        "sha256": "09cf56a9c808b9d0f4b3f20259346a1042622e4ab8e30030e6fe1b0438dd8959"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-sea-turtle-intermediate",
+        "title": "Sea Turtle",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-sea-turtle-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-sea-turtle-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-sea-turtle-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-intermediate-image.png",
+        "bytes": 108942,
+        "sha256": "84ffde154e251a350ee641d3cdf1bb8db77de21b58e5fe9157f0e030c50f2a96"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-sea-turtle-intermediate-thumb.png",
+        "bytes": 14115,
+        "sha256": "36940cd9b841a723e92fdf10524eddf93bcd8f04dfea7d65e76f688967d62d22"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-little-seahorse-intermediate",
+        "title": "Little Seahorse",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-little-seahorse-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-little-seahorse-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-little-seahorse-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-intermediate-image.png",
+        "bytes": 95164,
+        "sha256": "f2da22bff41a904a294803f87ad86ace00cd2fbc494ebbc6cc5f6bd7c7e85f56"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-little-seahorse-intermediate-thumb.png",
+        "bytes": 12024,
+        "sha256": "f44e452c496cc04adff3951e882f7d516b43fe4437d2ab1768ed04bfb72b85f5"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-sandy-crab-intermediate",
+        "title": "Sandy Crab",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-sandy-crab-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-sandy-crab-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-sandy-crab-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-sandy-crab-intermediate-image.png",
+        "bytes": 94823,
+        "sha256": "625f823b5313c71e0321b2470b43ee12641435c41762cc2df5f4ce353837323f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-sandy-crab-intermediate-thumb.png",
+        "bytes": 12503,
+        "sha256": "7128458597f2b4c7d87e04b4fda8f2ab9a098295cf72216add3b329b9b6c6e9c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate",
+        "title": "Three Horn Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate-image.png",
+        "bytes": 129775,
+        "sha256": "78a085e5d26435a47f8bc78bedb5f8223443e41506e7961880ede1aa31eae66a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-three-horn-dinosaur-intermediate-thumb.png",
+        "bytes": 16463,
+        "sha256": "20b10f457a11f602cf286b8877dd6e614866b34a47f14306eac4ed761616ca96"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-stegosaurus-trail-intermediate",
+        "title": "Stegosaurus Trail",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-stegosaurus-trail-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-intermediate-image.png",
+        "bytes": 130584,
+        "sha256": "b506681b8496eaf78e8f642cdcc761adb2f3c8820d6119cc8681d606f18c6dab"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-stegosaurus-trail-intermediate-thumb.png",
+        "bytes": 16805,
+        "sha256": "75cb04544f78762823d2dcc799dcea4e91e451c68d0a28e7743b1c59b241098c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-flying-pterosaur-intermediate",
+        "title": "Flying Pterosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-flying-pterosaur-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-flying-pterosaur-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-flying-pterosaur-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-flying-pterosaur-intermediate-image.png",
+        "bytes": 128701,
+        "sha256": "915d279bf1e83a425ca5c8a26c4d81f3da20d4b656a191d46d94ee9c268bf5db"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-flying-pterosaur-intermediate-thumb.png",
+        "bytes": 15738,
+        "sha256": "c480eac71903d1672c18153229de9659a3a0f3d5adc1607116865fb6693b7a66"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate",
+        "title": "Friendly Tyrannosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate-image.png",
+        "bytes": 119636,
+        "sha256": "adb878004ba6cfe6bea2d0c3bd00bdea64c2c95398067b380627ad340d3e365a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-friendly-tyrannosaur-intermediate-thumb.png",
+        "bytes": 15282,
+        "sha256": "ad39156e34183e06b0591a887573aed839ad770ab76d87bb8e78ef9165861ff5"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-dinosaurs-armoured-dinosaur-intermediate",
+        "title": "Armoured Dinosaur",
+        "category": "Dinosaurs",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-dinosaurs-armoured-dinosaur-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-intermediate-image.png",
+        "bytes": 128465,
+        "sha256": "6e0c1f6ad2beaad3a4397f1a9bf3b5a6d2d3caadb3db2d4d79249970cce84b0e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-dinosaurs-armoured-dinosaur-intermediate-thumb.png",
+        "bytes": 16761,
+        "sha256": "14cef307a54828cddafc49b9f89c4bee822d44391d32f3623a1bed605bed5d11"
+      }
+    }
+  ]
+}

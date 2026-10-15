@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-006",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-wizard-wishes-basic",
+        "title": "Wizard Wishes",
+        "category": "Fantasy",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-fantasy-wizard-wishes-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-wizard-wishes-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-wizard-wishes-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-basic-image.png",
+        "bytes": 89015,
+        "sha256": "2635a03db094d52e3dcd9abe7f2dadcb1d48508769941f20ee22bce01afc2584"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-wizard-wishes-basic-thumb.png",
+        "bytes": 10790,
+        "sha256": "60d0da42a2e12ce9c9868f7fd79950ec2c5e5c780a8a19cf1a2d367070d72192"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-fantasy-treasure-chest-basic",
+        "title": "Treasure Chest",
+        "category": "Fantasy",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-fantasy-treasure-chest-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-fantasy-treasure-chest-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-fantasy-treasure-chest-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-fantasy-treasure-chest-basic-image.png",
+        "bytes": 41932,
+        "sha256": "3381d5023b76028f86d76525a1dd081fa71bd992d163ea191eb8bea69b605600"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-fantasy-treasure-chest-basic-thumb.png",
+        "bytes": 4653,
+        "sha256": "4840701d02e0226fb03c4df15247e2bceee4828e13b692b22648b4b7f2a4800d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-country-windmill-basic",
+        "title": "Country Windmill",
+        "category": "Buildings",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-buildings-country-windmill-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-country-windmill-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-country-windmill-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-basic-image.png",
+        "bytes": 75868,
+        "sha256": "00bdfbf5e9d2e13dcb457c0d90161be3006b7ec49c6cf8614c702b9dfcdc401b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-basic-thumb.png",
+        "bytes": 8700,
+        "sha256": "db7b9f7f01f6564bdf399b5a75c99b4071ade53f479bb1dbfc348c36c686fcd0"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-corner-shop-basic",
+        "title": "Corner Shop",
+        "category": "Buildings",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-buildings-corner-shop-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-corner-shop-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-corner-shop-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-basic-image.png",
+        "bytes": 43204,
+        "sha256": "11abb0f3ad7de9ec49564e9966ab164d7050e3cc08f189e8c3f2283c56777036"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-basic-thumb.png",
+        "bytes": 4843,
+        "sha256": "932506304db580ade72f1f966df3546e20b9a63a2321a56b80fcda5aee43a37a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-treehouse-hideaway-basic",
+        "title": "Treehouse Hideaway",
+        "category": "Buildings",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-buildings-treehouse-hideaway-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-treehouse-hideaway-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-treehouse-hideaway-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-treehouse-hideaway-basic-image.png",
+        "bytes": 69947,
+        "sha256": "2b8378d1684025ddb6b07903c96834267579e303b97f891cd307d48acc4c50b2"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-treehouse-hideaway-basic-thumb.png",
+        "bytes": 7659,
+        "sha256": "b1622e59d00c971cb014c3a30f6e71841664eb688853b47526a26850490e7750"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-flower-bouquet-basic",
+        "title": "Flower Bouquet",
+        "category": "Flowers",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-flowers-flower-bouquet-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-flower-bouquet-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-flower-bouquet-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-basic-image.png",
+        "bytes": 96110,
+        "sha256": "95604572b0d5914bf9b8e21bfc997061a8d0dea746bcf644f03f4824b20abdd3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-basic-thumb.png",
+        "bytes": 12969,
+        "sha256": "e109126df8b6dfa8036d3c90ec7c638a11e05396685f84d49360fcd98bb114e7"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-marigold-pot-basic",
+        "title": "Marigold Pot",
+        "category": "Flowers",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-flowers-marigold-pot-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-marigold-pot-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-marigold-pot-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-basic-image.png",
+        "bytes": 91955,
+        "sha256": "661731eb78eb83c78ebe52b882c4eb03665d14b2d69d81e5afc966a2b75df38a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-marigold-pot-basic-thumb.png",
+        "bytes": 11197,
+        "sha256": "49640582b3796f6bb528118efc9f8b4e2fc18f632d069c78bdb4da0b786ca9fd"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-dahlia-garden-basic",
+        "title": "Dahlia Garden",
+        "category": "Flowers",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-flowers-dahlia-garden-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-dahlia-garden-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-dahlia-garden-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-dahlia-garden-basic-image.png",
+        "bytes": 85564,
+        "sha256": "a9c81883b1d58796583ef56c4ad79950d4c2498d921a4cd911e517b361c43a31"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-dahlia-garden-basic-thumb.png",
+        "bytes": 10396,
+        "sha256": "e6c403cf9257c22a81c7e3e3bf3269c383d0599dcdf0064bb1bf14a3fbdb30f5"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-tennis-time-basic",
+        "title": "Tennis Time",
+        "category": "Sports",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-sports-tennis-time-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-tennis-time-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-tennis-time-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-tennis-time-basic-image.png",
+        "bytes": 96249,
+        "sha256": "ff5bf40f9887dfd2ac916efeafdd182b853bff13468de538b19cf4daac2b36ae"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-tennis-time-basic-thumb.png",
+        "bytes": 10734,
+        "sha256": "82d49e66a1bac01ddcc9c0547fb2716708045320eb7dc80cc4b9c02867577cef"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-sports-skateboard-park-basic",
+        "title": "Skateboard Park",
+        "category": "Sports",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-sports-skateboard-park-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-sports-skateboard-park-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-sports-skateboard-park-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-basic-image.png",
+        "bytes": 55376,
+        "sha256": "e5f0263fcfeec044402184c9503a0fdeed99c635297746efed931516b7cb3b49"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-sports-skateboard-park-basic-thumb.png",
+        "bytes": 7556,
+        "sha256": "e7e6f2025b6389c596acd0bb441de800e5f6c83c3927f26668d44f86cba830cd"
+      }
+    }
+  ]
+}

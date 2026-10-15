@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-003",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-crystal-rosette-basic",
+        "title": "Crystal Rosette",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-crystal-rosette-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-crystal-rosette-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-crystal-rosette-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-crystal-rosette-basic-image.png",
+        "bytes": 154451,
+        "sha256": "3709e09ed4d3ce6d9a9b9f6cf45425a02e8a4d44374d91beeb7df7467f506695"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-crystal-rosette-basic-thumb.png",
+        "bytes": 17882,
+        "sha256": "dc5ecf04639194687639c459f49e650a7ea50ca6e4c1ee17e31e93e78484ecdb"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-five-petal-harmony-basic",
+        "title": "Five Petal Harmony",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-five-petal-harmony-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-five-petal-harmony-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-five-petal-harmony-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-basic-image.png",
+        "bytes": 130315,
+        "sha256": "29ca871a16bd1d8842bc53f3464d55ffee1e2225f70a48b3e06e848c0654f243"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-five-petal-harmony-basic-thumb.png",
+        "bytes": 15290,
+        "sha256": "a5e4c19b5b2e09586250b26a0a864a92299112fb354d000b59d2aa8fecdfefa8"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-sun-ray-circle-basic",
+        "title": "Sun Ray Circle",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-sun-ray-circle-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-sun-ray-circle-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-sun-ray-circle-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-sun-ray-circle-basic-image.png",
+        "bytes": 156724,
+        "sha256": "dd5cdcbc19973aa689eb2287b970941543d103237ab0fbd8057a1f6c9b8b1264"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-sun-ray-circle-basic-thumb.png",
+        "bytes": 18295,
+        "sha256": "39217f2fe79d399db2881690f56cf1eb50107e1451a099c75334cb638eb1fd4c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-leaf-mosaic-basic",
+        "title": "Leaf Mosaic",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-leaf-mosaic-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-leaf-mosaic-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-leaf-mosaic-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-leaf-mosaic-basic-image.png",
+        "bytes": 145607,
+        "sha256": "81707cfa2018a4f58910d25195ac2321d635b3838a04727ed84033d4cd0871f2"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-leaf-mosaic-basic-thumb.png",
+        "bytes": 17026,
+        "sha256": "5014ee0c8ead5d5466a29016c3d7d17fb9bf83a78f7de50ba9fdb61d7c55f282"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-starlight-rosette-basic",
+        "title": "Starlight Rosette",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-starlight-rosette-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-starlight-rosette-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-starlight-rosette-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-starlight-rosette-basic-image.png",
+        "bytes": 161672,
+        "sha256": "fff394b23c65d8a0d450f0c6f4648d7008da11291b3d50e4ed3ec0c4432a0bd8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-starlight-rosette-basic-thumb.png",
+        "bytes": 18615,
+        "sha256": "c4110d81397b8eac39ec9f3f12307fa5656c688d2a4068752db2a07cc95aead0"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-daisy-symmetry-basic",
+        "title": "Daisy Symmetry",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-daisy-symmetry-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-daisy-symmetry-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-daisy-symmetry-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-daisy-symmetry-basic-image.png",
+        "bytes": 163386,
+        "sha256": "c6bd25cd9cb1062b7b029caf98a538bf930f0516702a4a4c0373469daf68bb9e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-daisy-symmetry-basic-thumb.png",
+        "bytes": 18895,
+        "sha256": "1ca6a25bcd2dd828f13bb79f5f8ccf814263ec9a7789a3d74e39f97c877ddc8e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-road-trip-car-basic",
+        "title": "Road Trip Car",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-road-trip-car-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-road-trip-car-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-road-trip-car-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-road-trip-car-basic-image.png",
+        "bytes": 65844,
+        "sha256": "31c0840031bc890c79f2868bfaa960753deee515d0657d4ffa4ce1914a43c694"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-road-trip-car-basic-thumb.png",
+        "bytes": 9227,
+        "sha256": "628d17dc20804ff9a79cbc7f8d4677cb57ca83a40f5a154e510de700adb42e50"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-school-bus-basic",
+        "title": "School Bus",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-school-bus-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-school-bus-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-school-bus-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-school-bus-basic-image.png",
+        "bytes": 55193,
+        "sha256": "546c42c09bbe0c9b9df267008158aa9a6f386ce7c53ce2de538bf683d47061b2"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-school-bus-basic-thumb.png",
+        "bytes": 8142,
+        "sha256": "87b261bd822404eec8cbc7e87041c615377516494c352b3ab1014989da3a2ce2"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-cloud-aeroplane-basic",
+        "title": "Cloud Aeroplane",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-cloud-aeroplane-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-cloud-aeroplane-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-cloud-aeroplane-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-basic-image.png",
+        "bytes": 72731,
+        "sha256": "50d7d05b20c68d329f644fa59657198ba8c0f8557ce57684e8eeff647c355aff"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-basic-thumb.png",
+        "bytes": 9260,
+        "sha256": "0083b74428f809d73c21c9eb848a2c6f0206f620c67e1d87a0e6c62c5d4000c1"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-ocean-sailboat-basic",
+        "title": "Ocean Sailboat",
+        "category": "Vehicles",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-vehicles-ocean-sailboat-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-ocean-sailboat-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-ocean-sailboat-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-ocean-sailboat-basic-image.png",
+        "bytes": 61485,
+        "sha256": "69d7320de89ea0900ff1b5168195ef8289d2c016f97e7556edc34b5b0fe1f2d7"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-ocean-sailboat-basic-thumb.png",
+        "bytes": 7897,
+        "sha256": "7d29991230bc2a38617fd0678de82a3d30b683ec7536a3615541e444d8dc90b3"
+      }
+    }
+  ]
+}

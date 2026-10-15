@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-002",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-nature-duck-pond-basic",
+        "title": "Duck Pond",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-duck-pond-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-duck-pond-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-duck-pond-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-duck-pond-basic-image.png",
+        "bytes": 75455,
+        "sha256": "7fc634ba79a5765d86078413916209136e7f86247416ffba0d22183e0f52a8ac"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-duck-pond-basic-thumb.png",
+        "bytes": 9414,
+        "sha256": "893ebfc14ad3bd5c157a99d5114eed3585cf9c7b40f5c5cc196b4b5f40433e0a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-waterfall-valley-basic",
+        "title": "Waterfall Valley",
+        "category": "Nature",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-nature-waterfall-valley-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-waterfall-valley-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-waterfall-valley-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-waterfall-valley-basic-image.png",
+        "bytes": 43381,
+        "sha256": "9a0b696949403e8f646499614bb62e331c151adfa25e7b11dc51597bf67bbf54"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-waterfall-valley-basic-thumb.png",
+        "bytes": 6374,
+        "sha256": "1074c6fa723272566e47e5742798ac50db093e9ac4ac3eaea99abaf949e3cc44"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-starship-launch-basic",
+        "title": "Starship Launch",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-starship-launch-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-starship-launch-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-starship-launch-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-starship-launch-basic-image.png",
+        "bytes": 84998,
+        "sha256": "88c494968cb9b9ed6ff7a582c4ce471e4b1c67b1401710260810163ec4e0b880"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-starship-launch-basic-thumb.png",
+        "bytes": 9457,
+        "sha256": "bf4291f10d40f67ac9b262358cf6708cf9c19428acaddbfbd9436a791abee7bd"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-saturn-voyage-basic",
+        "title": "Saturn Voyage",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-saturn-voyage-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-saturn-voyage-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-saturn-voyage-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-saturn-voyage-basic-image.png",
+        "bytes": 95185,
+        "sha256": "b7a3a942363c39a3372ee866127bf5bcabdee31b0d2f6f3b2711de4668425c86"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-saturn-voyage-basic-thumb.png",
+        "bytes": 11478,
+        "sha256": "c4c01f1f10e414b965f3ccb42bbbc7f8bd631886c4f127ee857974767ae113b6"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-space-walker-basic",
+        "title": "Space Walker",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-space-walker-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-space-walker-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-space-walker-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-space-walker-basic-image.png",
+        "bytes": 68263,
+        "sha256": "26f08e014b9f556ed723ebb5a1c35fa5c32c64d32642182a8c3c6abdba986190"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-space-walker-basic-thumb.png",
+        "bytes": 8758,
+        "sha256": "5afa9a286587217d1526b6ce9e30692ded70ab5e796a5d143e4a6f57b456b5de"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-alien-visitor-basic",
+        "title": "Alien Visitor",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-alien-visitor-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-alien-visitor-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-alien-visitor-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-alien-visitor-basic-image.png",
+        "bytes": 92336,
+        "sha256": "3381f452df25905848e52c4a81ec3d14264a45fd25b92032e77bc75161c6475b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-alien-visitor-basic-thumb.png",
+        "bytes": 11788,
+        "sha256": "8e9325e15252c225b66e231566a2ae4812eb64dc6dd952feb5a97be77f0a674e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-lunar-rover-basic",
+        "title": "Lunar Rover",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-lunar-rover-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-lunar-rover-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-lunar-rover-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-lunar-rover-basic-image.png",
+        "bytes": 72309,
+        "sha256": "5079129a60d8162940ee509b7afce087825e92905f223ad7d604d6c1a17f0d0b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-lunar-rover-basic-thumb.png",
+        "bytes": 9492,
+        "sha256": "cb1c8409cd06a8503b0c98598940e3c5720ff6c287234bba4cc7a1262623023c"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-crescent-dreams-basic",
+        "title": "Crescent Dreams",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-crescent-dreams-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-crescent-dreams-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-crescent-dreams-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-crescent-dreams-basic-image.png",
+        "bytes": 90103,
+        "sha256": "005d038f79918be8e7872999a4bf1aded761b73a3f8d7873c54e83fe25f9fb8e"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-crescent-dreams-basic-thumb.png",
+        "bytes": 10770,
+        "sha256": "e7f13a09c66752398d48452cd00d3d022e98fbfa32bb257aefc9d55ed7b96a77"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-space-orbiting-satellite-basic",
+        "title": "Orbiting Satellite",
+        "category": "Space",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-space-orbiting-satellite-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-space-orbiting-satellite-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-space-orbiting-satellite-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-space-orbiting-satellite-basic-image.png",
+        "bytes": 47721,
+        "sha256": "ad2222330da2e50c25271e9f22388f2ce010d150842fc61e2b3df599a7f06a79"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-space-orbiting-satellite-basic-thumb.png",
+        "bytes": 5980,
+        "sha256": "fe0059cb2035d1b4d5129a19213b8e6d41724d21aaea4e70322c384714465794"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-mandalas-lotus-wheel-basic",
+        "title": "Lotus Wheel",
+        "category": "Mandalas",
+        "difficulty": "Basic",
+        "image": "pages/paintivo-tier-mandalas-lotus-wheel-basic-image.png",
+        "thumbnail": "pages/paintivo-tier-mandalas-lotus-wheel-basic-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-mandalas-lotus-wheel-basic.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-mandalas-lotus-wheel-basic-image.png",
+        "bytes": 138817,
+        "sha256": "0e9195891c9982c8d41eaac4a2299c11bc48fbd6302c535aa34dddceb0b1a559"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-mandalas-lotus-wheel-basic-thumb.png",
+        "bytes": 15896,
+        "sha256": "fd968a1a797e7a04bfdf18766971ad29d1ab167234143cdd0eccb5242379edaa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-017",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-delivery-truck-expert",
+        "title": "Delivery Truck",
+        "category": "Vehicles",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-vehicles-delivery-truck-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-delivery-truck-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-delivery-truck-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-delivery-truck-expert-image.png",
+        "bytes": 155337,
+        "sha256": "0db23098a976a89dbf232c45577b5b6f0f940f02e912e221bb576731845b2343"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-delivery-truck-expert-thumb.png",
+        "bytes": 24994,
+        "sha256": "2d60c3c87cfd101c37e52a4450953b64d0bbab66e222755e451c87bd41c28a07"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-family-pizza-expert",
+        "title": "Family Pizza",
+        "category": "Food",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-food-family-pizza-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-food-family-pizza-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-family-pizza-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-family-pizza-expert-image.png",
+        "bytes": 143021,
+        "sha256": "b8b2ac2ac9b1937251bf7bdf713c02f53d20aaa6a9a0baa44136d767c55f77cb"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-family-pizza-expert-thumb.png",
+        "bytes": 20442,
+        "sha256": "e8bd0cae60cbf0ae10917acc4dc1322356a8c7b735c54b65c01218f9d9902937"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-rainbow-ice-pop-expert",
+        "title": "Rainbow Ice Pop",
+        "category": "Food",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-food-rainbow-ice-pop-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-food-rainbow-ice-pop-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-rainbow-ice-pop-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-rainbow-ice-pop-expert-image.png",
+        "bytes": 103530,
+        "sha256": "94e43a585d9e0d6d6b219bb871b9f8fd0dca57177b106f84dc58e4b8004f47fe"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-rainbow-ice-pop-expert-thumb.png",
+        "bytes": 15993,
+        "sha256": "9f65527735f4f2043f74c2bdfe99b27092ad5088a16da234727e48111ca00c8a"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-picnic-burger-expert",
+        "title": "Picnic Burger",
+        "category": "Food",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-food-picnic-burger-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-food-picnic-burger-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-picnic-burger-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-picnic-burger-expert-image.png",
+        "bytes": 110422,
+        "sha256": "551d2ee10a0c0104af9f91ff0906738355385f158ddcd727dfd58c1b04a24a1a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-picnic-burger-expert-thumb.png",
+        "bytes": 17282,
+        "sha256": "2b5fbe7f48cbf301778dbbfe088ce7c25bd9ecc49d189a3e3ae76a39ac52e63e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-fruit-bowl-expert",
+        "title": "Fruit Bowl",
+        "category": "Food",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-food-fruit-bowl-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-food-fruit-bowl-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-fruit-bowl-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-fruit-bowl-expert-image.png",
+        "bytes": 108738,
+        "sha256": "dca8d8d152189db3818355ade5d4978e8d09bd9784d034d29d14926c35e12094"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-fruit-bowl-expert-thumb.png",
+        "bytes": 16689,
+        "sha256": "2e03837f1f01f30f10f12fa87ae280fa3d9ff93a26cca07c2e627ee2f6ba63d9"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-pond-duck-expert",
+        "title": "Pond Duck",
+        "category": "Birds",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-birds-pond-duck-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-pond-duck-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-pond-duck-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-pond-duck-expert-image.png",
+        "bytes": 134179,
+        "sha256": "f76ddd1e854f0ef4f75a6b927db614991b48d9c0b4904fa8b81409d7210f14a4"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-pond-duck-expert-thumb.png",
+        "bytes": 18742,
+        "sha256": "6edae702dc77453ad9208639fe67631b57796934da641fd1cdcb24810fe0fa87"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-peacock-fan-expert",
+        "title": "Peacock Fan",
+        "category": "Birds",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-birds-peacock-fan-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-peacock-fan-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-peacock-fan-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-peacock-fan-expert-image.png",
+        "bytes": 179062,
+        "sha256": "9cefe852ddb868412cf607a30a8d3b94cbae5545636a2e671f4e726a09cdd22a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-peacock-fan-expert-thumb.png",
+        "bytes": 23566,
+        "sha256": "69c070eb7d4ffeaf9d15666aa9b9081708d945b84fafd8e6b8f33f917fdaa237"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-farm-rooster-expert",
+        "title": "Farm Rooster",
+        "category": "Birds",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-birds-farm-rooster-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-farm-rooster-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-farm-rooster-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-expert-image.png",
+        "bytes": 135362,
+        "sha256": "a1bb745d626eb169a0e14a5c21a72da27637817a01a79ba0cac139367597196f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-expert-thumb.png",
+        "bytes": 18566,
+        "sha256": "e5726e730b16f9eb0e7e92827479c7e190850b3b7f1463f2de83cccf813f5868"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-pink-flamingo-expert",
+        "title": "Pink Flamingo",
+        "category": "Birds",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-birds-pink-flamingo-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-pink-flamingo-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-pink-flamingo-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-expert-image.png",
+        "bytes": 128707,
+        "sha256": "5e994cb03c2cda7a66cd0e6bb191e6992b15f0dc6d73a44210f77d5f99293d08"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-expert-thumb.png",
+        "bytes": 17919,
+        "sha256": "283bda95bc72ca576e65aa4973d807b6d7369071d25257b7c7d48c927cf7068d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-curious-octopus-expert",
+        "title": "Curious Octopus",
+        "category": "Ocean",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-ocean-curious-octopus-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-curious-octopus-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-curious-octopus-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-curious-octopus-expert-image.png",
+        "bytes": 178573,
+        "sha256": "8a07d60a1fde4330f286c9cb62f501b535b56aadbeac674844204e0bb9137ea0"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-curious-octopus-expert-thumb.png",
+        "bytes": 26764,
+        "sha256": "4e3859fc1418697239765c97a82b18fac6c34a886701cb360780705e146b1cb9"
+      }
+    }
+  ]
+}

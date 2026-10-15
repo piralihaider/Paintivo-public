@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-009",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-vehicles-cloud-aeroplane-intermediate",
+        "title": "Cloud Aeroplane",
+        "category": "Vehicles",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-vehicles-cloud-aeroplane-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-vehicles-cloud-aeroplane-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-vehicles-cloud-aeroplane-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-intermediate-image.png",
+        "bytes": 113845,
+        "sha256": "25a13eb884440b044015f8aee4c969a55cdb2c524d5c28ec40c5ae6ef251c67b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-vehicles-cloud-aeroplane-intermediate-thumb.png",
+        "bytes": 14661,
+        "sha256": "17ce8f8c2d86d96c18dbe04f6a99b52c4b2bcdf69004a4c974e3762b785f1d85"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-cherry-cupcake-intermediate",
+        "title": "Cherry Cupcake",
+        "category": "Food",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-food-cherry-cupcake-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-food-cherry-cupcake-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-cherry-cupcake-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-cherry-cupcake-intermediate-image.png",
+        "bytes": 85323,
+        "sha256": "c6cb865388218cc40567ca64b889e1f58ffe7f6461b8566518da14e6b804e760"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-cherry-cupcake-intermediate-thumb.png",
+        "bytes": 11641,
+        "sha256": "9e1fb64ad33914c6741975f6bc2d9c2bd4d9c24d6fc8954003c65aa8c6df2779"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-food-family-pizza-intermediate",
+        "title": "Family Pizza",
+        "category": "Food",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-food-family-pizza-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-food-family-pizza-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-food-family-pizza-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-food-family-pizza-intermediate-image.png",
+        "bytes": 132812,
+        "sha256": "c621e3600dc5ad8664d08651f70324a74e40534e65cfe1f8b8adbc77154d17cd"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-food-family-pizza-intermediate-thumb.png",
+        "bytes": 17040,
+        "sha256": "210e3477137f4cc0238e361edbb9891417f75eb5ee493ef95d52d9f8669297ad"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-night-owl-intermediate",
+        "title": "Night Owl",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-night-owl-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-night-owl-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-night-owl-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-night-owl-intermediate-image.png",
+        "bytes": 120419,
+        "sha256": "c85d775edb02e53a9cb2048d16cbddd7b1ae94f53b5356554929b33e9ba063a3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-night-owl-intermediate-thumb.png",
+        "bytes": 16269,
+        "sha256": "d1230ce2e1942311b45c8761ff53b9c7b5fd3a0263a220ba7e15edd87a838977"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-pond-duck-intermediate",
+        "title": "Pond Duck",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-pond-duck-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-pond-duck-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-pond-duck-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-pond-duck-intermediate-image.png",
+        "bytes": 126488,
+        "sha256": "8e9e404968453b656868cac733c4bfa0a3cab7096ff797364f69f280f2a44e3a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-pond-duck-intermediate-thumb.png",
+        "bytes": 16848,
+        "sha256": "5d28c204e1b52d1bf35acbd8a65870bfded4e406c332f1d7fcab1483ab3d6df1"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-peacock-fan-intermediate",
+        "title": "Peacock Fan",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-peacock-fan-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-peacock-fan-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-peacock-fan-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-peacock-fan-intermediate-image.png",
+        "bytes": 191331,
+        "sha256": "3d614463bba3f7699c464841291221f966272ac2d9db4dcc63cdfef40cefc244"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-peacock-fan-intermediate-thumb.png",
+        "bytes": 24014,
+        "sha256": "72299f646a098e14fffabce6902b8a19db061a420f1e97b4f94d1b57aedab09f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-farm-rooster-intermediate",
+        "title": "Farm Rooster",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-farm-rooster-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-farm-rooster-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-farm-rooster-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-intermediate-image.png",
+        "bytes": 131082,
+        "sha256": "bb9a29e0d6f8de2681fb01e4cd884fd5bbbabce7a52d914b54f14527ca71c5ca"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-farm-rooster-intermediate-thumb.png",
+        "bytes": 16696,
+        "sha256": "feee56d23c7c30d0241cffc736a84613a3a980c6c5a23ad601da8ee9d037580d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-pink-flamingo-intermediate",
+        "title": "Pink Flamingo",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-pink-flamingo-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-pink-flamingo-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-pink-flamingo-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-intermediate-image.png",
+        "bytes": 118049,
+        "sha256": "0ac35181cb7ae16151297a9e0134f3cfa518ee348f7eebc4d1b6394946aa321b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-pink-flamingo-intermediate-thumb.png",
+        "bytes": 15660,
+        "sha256": "d3c3cf7a5f012d31c070f7e8b816cac51c9610cbdcd425d5148aae9c66ff6e3e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-birds-crested-parrot-intermediate",
+        "title": "Crested Parrot",
+        "category": "Birds",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-birds-crested-parrot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-birds-crested-parrot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-birds-crested-parrot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-birds-crested-parrot-intermediate-image.png",
+        "bytes": 121791,
+        "sha256": "41229519b70621f99feaaadfc66252b7e98cb6de57d0211d6437108c26261fed"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-birds-crested-parrot-intermediate-thumb.png",
+        "bytes": 15407,
+        "sha256": "08c5393107d57c874994504e51798ad3c54599afe89f0a7c6a1226c86c42bbbc"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-ocean-blue-whale-intermediate",
+        "title": "Blue Whale",
+        "category": "Ocean",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-ocean-blue-whale-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-ocean-blue-whale-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-ocean-blue-whale-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-ocean-blue-whale-intermediate-image.png",
+        "bytes": 101923,
+        "sha256": "63279509a209e878a2d7157c0134de4819986de3f3071632ea5f836047288c95"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-ocean-blue-whale-intermediate-thumb.png",
+        "bytes": 12248,
+        "sha256": "8291e353478277b1dcfa50f7219978742427e6d998d76114fb1ce6b342dbe174"
+      }
+    }
+  ]
+}

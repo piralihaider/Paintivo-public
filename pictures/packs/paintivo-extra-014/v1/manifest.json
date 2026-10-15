@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-014",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-robots-friendly-android-intermediate",
+        "title": "Friendly Android",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-friendly-android-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-friendly-android-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-friendly-android-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-friendly-android-intermediate-image.png",
+        "bytes": 105377,
+        "sha256": "7321eec1555eb19e4b5258bba928338497c0da3f3295e0ed3489ec692c15f42b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-friendly-android-intermediate-thumb.png",
+        "bytes": 13788,
+        "sha256": "2056b9f80b6d28f8ab1b5095c20d631e4be255f33d23ddc3a0332fccf9695c99"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-builder-bot-intermediate",
+        "title": "Builder Bot",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-builder-bot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-builder-bot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-builder-bot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-builder-bot-intermediate-image.png",
+        "bytes": 100743,
+        "sha256": "1146632666d30f469d41de001ffe36d00612732aabbc31432aef61bd1ddec33b"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-builder-bot-intermediate-thumb.png",
+        "bytes": 13125,
+        "sha256": "de8ac39f8e48a1b302451bc8597c9c90b340aff699375e201fe8d84c81fe24c1"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-retro-robot-intermediate",
+        "title": "Retro Robot",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-retro-robot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-retro-robot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-retro-robot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-retro-robot-intermediate-image.png",
+        "bytes": 98395,
+        "sha256": "05162ce7521a0b9d07725bde5b5bd05e6397a935e3411491efebd74df5be2554"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-retro-robot-intermediate-thumb.png",
+        "bytes": 12889,
+        "sha256": "86adce899fda4e7de8d8768f55a6efc5c904a3d9259763c4a8cd9850a6e4ff17"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-robots-orbit-bot-intermediate",
+        "title": "Orbit Bot",
+        "category": "Robots",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-robots-orbit-bot-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-robots-orbit-bot-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-robots-orbit-bot-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-robots-orbit-bot-intermediate-image.png",
+        "bytes": 110307,
+        "sha256": "9aa4dbf8d18654084d9a07d9cc60d22720323a894afe4e7b3004f6a0e4038f4a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-robots-orbit-bot-intermediate-thumb.png",
+        "bytes": 14491,
+        "sha256": "2e110273a99aac676a3375eef7b377d25709a4f8cecd3273020844f6b0f4a912"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-busy-honeybee-intermediate",
+        "title": "Busy Honeybee",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-busy-honeybee-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-busy-honeybee-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-busy-honeybee-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-busy-honeybee-intermediate-image.png",
+        "bytes": 130797,
+        "sha256": "f074ea7d7043fe9e9b89a704120778a1521d45730d7b56d72972adac160d11aa"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-busy-honeybee-intermediate-thumb.png",
+        "bytes": 16803,
+        "sha256": "b9b52eced8436e7db85eb4ac23363999b957e2a9dc86dea182f0bc899ee14c8e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-butterfly-wings-intermediate",
+        "title": "Butterfly Wings",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-butterfly-wings-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-butterfly-wings-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-butterfly-wings-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-butterfly-wings-intermediate-image.png",
+        "bytes": 148180,
+        "sha256": "91eb3bf87de444efa74c79698c520513c9dedea5eacc207749da2626ca504747"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-butterfly-wings-intermediate-thumb.png",
+        "bytes": 19377,
+        "sha256": "07b25ad3d34f17bd197828682c05ff0391f99a4f51eb1ca5f5ee2634e8dd71cb"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-happy-caterpillar-intermediate",
+        "title": "Happy Caterpillar",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-happy-caterpillar-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-happy-caterpillar-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-happy-caterpillar-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-intermediate-image.png",
+        "bytes": 132397,
+        "sha256": "c8ba81482f9a95455a9bb6d2e7bf2a5f76cac2a4ad06a8ec39a60cfea6562964"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-happy-caterpillar-intermediate-thumb.png",
+        "bytes": 17443,
+        "sha256": "4b6affc8e42fdb00ed569ec8626ff732ce02af34ff45a3f573679d83035a253b"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-little-ant-intermediate",
+        "title": "Little Ant",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-little-ant-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-little-ant-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-little-ant-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-little-ant-intermediate-image.png",
+        "bytes": 111017,
+        "sha256": "28d9af4925b7e0c3247e2a5c74050b490d8f2d5da92d7e6727d6452b16c949c0"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-little-ant-intermediate-thumb.png",
+        "bytes": 14500,
+        "sha256": "c780f4bb8171e283877dea42c96a544717583c8cdfa09acf5ccf8b80d35e9e23"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-dragonfly-flight-intermediate",
+        "title": "Dragonfly Flight",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-dragonfly-flight-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-dragonfly-flight-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-dragonfly-flight-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-intermediate-image.png",
+        "bytes": 146739,
+        "sha256": "b1b00336da6d3e9e48633ad39940b9189fcf1c37b7d8b56ac0e6a192fc706eec"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-dragonfly-flight-intermediate-thumb.png",
+        "bytes": 18481,
+        "sha256": "a55d0fc3d55be747b3b00c90c0495369270732008c63211d0f827dc7193009bb"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-insects-snail-trail-intermediate",
+        "title": "Snail Trail",
+        "category": "Insects",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-insects-snail-trail-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-insects-snail-trail-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-insects-snail-trail-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-insects-snail-trail-intermediate-image.png",
+        "bytes": 118114,
+        "sha256": "2da292d430a761d8f71e330b3b9824eb40d0f330dcb0e530de229925d38f413f"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-insects-snail-trail-intermediate-thumb.png",
+        "bytes": 15515,
+        "sha256": "b54b98389c12ea8cfd96ff408d398c12e1a45caebc5174f10141c1cd3598ff70"
+      }
+    }
+  ]
+}

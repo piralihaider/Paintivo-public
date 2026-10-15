@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-012",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-clock-tower-intermediate",
+        "title": "Clock Tower",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-clock-tower-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-clock-tower-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-clock-tower-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-clock-tower-intermediate-image.png",
+        "bytes": 87717,
+        "sha256": "8bc01020a86ec529468e72b36448d635bf3dad67b7a17b0ca6b3c49c4655a371"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-clock-tower-intermediate-thumb.png",
+        "bytes": 11224,
+        "sha256": "da0113a7c3e5c75f4766a828cfa1531d94428ab16c4973d7c2aab3a1a70e5701"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-village-school-intermediate",
+        "title": "Village School",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-village-school-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-village-school-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-village-school-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-village-school-intermediate-image.png",
+        "bytes": 92244,
+        "sha256": "f49c11cc1ec75ec5a589044e209f11c8d261010a370902abd40d8503c64bb854"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-village-school-intermediate-thumb.png",
+        "bytes": 11251,
+        "sha256": "a7e0b5f54b6a17b4b5c38a667ef2315133eb5e43ba6f67486ac312a8018d2fe9"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-country-windmill-intermediate",
+        "title": "Country Windmill",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-country-windmill-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-country-windmill-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-country-windmill-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-intermediate-image.png",
+        "bytes": 122946,
+        "sha256": "c1a7af445229263a3225f89603719c19751510695c20cb101c0512b0be417a2a"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-country-windmill-intermediate-thumb.png",
+        "bytes": 15024,
+        "sha256": "2511540d1002e7c9739783ae3dde124fa11056d36d34f96c8614031f41a07ce6"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-corner-shop-intermediate",
+        "title": "Corner Shop",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-corner-shop-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-corner-shop-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-corner-shop-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-intermediate-image.png",
+        "bytes": 78967,
+        "sha256": "83c7c2858736460230519908a2f221c63771aedfebb7f4b19ce61df37e907510"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-corner-shop-intermediate-thumb.png",
+        "bytes": 9737,
+        "sha256": "9cd7a618f2b8de586ebdacdac0c980bdf969e90fc21d702e7e5dff1c15a23aea"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-buildings-treehouse-hideaway-intermediate",
+        "title": "Treehouse Hideaway",
+        "category": "Buildings",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-buildings-treehouse-hideaway-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-buildings-treehouse-hideaway-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-buildings-treehouse-hideaway-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-buildings-treehouse-hideaway-intermediate-image.png",
+        "bytes": 113617,
+        "sha256": "4d0c2bf35080fbaa964f798caceba93b00f1994056aa1a9912fc0b424a28ccb9"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-buildings-treehouse-hideaway-intermediate-thumb.png",
+        "bytes": 13774,
+        "sha256": "2e52598f8f5d17b0088666cbf2952e288c5556c5cdabbaf5cce9ea3851499962"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-meadow-daisy-intermediate",
+        "title": "Meadow Daisy",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-meadow-daisy-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-meadow-daisy-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-meadow-daisy-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-meadow-daisy-intermediate-image.png",
+        "bytes": 138741,
+        "sha256": "dc7a1f105089ae803d41502f680b283bb5f7f17e844567cb655f418490460348"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-meadow-daisy-intermediate-thumb.png",
+        "bytes": 17784,
+        "sha256": "1ca13f86c05577ba5dd4cf3dae646762421ddb3783231b58d31c940579e62ee2"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-sunflower-bloom-intermediate",
+        "title": "Sunflower Bloom",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-sunflower-bloom-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-sunflower-bloom-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-sunflower-bloom-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-sunflower-bloom-intermediate-image.png",
+        "bytes": 146269,
+        "sha256": "033d49120ded5eaa20c338e33fabee33785812e3f7fd3f9d67d940c93b315ff8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-sunflower-bloom-intermediate-thumb.png",
+        "bytes": 18756,
+        "sha256": "78db555e826b5308178bf99bda1f47a24e60ecbf1deecbecb681b3ac63487534"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-spring-tulip-intermediate",
+        "title": "Spring Tulip",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-spring-tulip-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-spring-tulip-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-spring-tulip-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-spring-tulip-intermediate-image.png",
+        "bytes": 130397,
+        "sha256": "cbc8e7381204206534f700557102e32fc0cdf4a62e01f8858e7196df1b161cdc"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-spring-tulip-intermediate-thumb.png",
+        "bytes": 16620,
+        "sha256": "2b8f1db1825196b50e6fe063f19d37c207fc7565efc11a67aef241acf478fc56"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-cosmos-blossom-intermediate",
+        "title": "Cosmos Blossom",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-cosmos-blossom-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-cosmos-blossom-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-cosmos-blossom-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-cosmos-blossom-intermediate-image.png",
+        "bytes": 141881,
+        "sha256": "270cb8643e1ddfa217d4b21003ed57ef36a1f0f73d50aa8738bd1935dc011207"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-cosmos-blossom-intermediate-thumb.png",
+        "bytes": 18220,
+        "sha256": "273ed09f7382316726b195af8ccaa8f8a86ad1f6f659db54cf45f07170719e35"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-flowers-flower-bouquet-intermediate",
+        "title": "Flower Bouquet",
+        "category": "Flowers",
+        "difficulty": "Intermediate",
+        "image": "pages/paintivo-tier-flowers-flower-bouquet-intermediate-image.png",
+        "thumbnail": "pages/paintivo-tier-flowers-flower-bouquet-intermediate-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-flowers-flower-bouquet-intermediate.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-intermediate-image.png",
+        "bytes": 156220,
+        "sha256": "0e2af32998f49312bbae60608eb194ce9e10a22b5c05c39ca1fad1cc8158ea99"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-flowers-flower-bouquet-intermediate-thumb.png",
+        "bytes": 21108,
+        "sha256": "0e2165ee4715bdf33fbdfeb981e14d70c33f68044dd13c7a8bd0d1d55dc3234e"
+      }
+    }
+  ]
+}

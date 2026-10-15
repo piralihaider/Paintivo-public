@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "paintivo-extra-015",
+  "version": 1,
+  "pages": [
+    {
+      "page": {
+        "id": "paintivo-tier-animals-bunny-with-carrot-expert",
+        "title": "Bunny with Carrot",
+        "category": "Animals",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-animals-bunny-with-carrot-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-bunny-with-carrot-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-bunny-with-carrot-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-expert-image.png",
+        "bytes": 131817,
+        "sha256": "26b818e846b67ea5d0062e25568aee38a2b3f342403cbc1ebf69e0ba4f28da45"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-bunny-with-carrot-expert-thumb.png",
+        "bytes": 19085,
+        "sha256": "5d2de32e0729211cc56f126ff569d96b13bea8d225f52147ac5d23fa12638ac5"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-little-lion-expert",
+        "title": "Little Lion",
+        "category": "Animals",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-animals-little-lion-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-little-lion-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-little-lion-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-little-lion-expert-image.png",
+        "bytes": 150627,
+        "sha256": "bed6e1cdc79dd9cd3b45181f909475660f32e4b5f3f310141b907ccee7da81c4"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-little-lion-expert-thumb.png",
+        "bytes": 20308,
+        "sha256": "68a7796d235a1486d75b947bfc27c5620a17b9454d7f647d7d8153007a374f9f"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-forest-fox-expert",
+        "title": "Forest Fox",
+        "category": "Animals",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-animals-forest-fox-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-forest-fox-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-forest-fox-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-forest-fox-expert-image.png",
+        "bytes": 129194,
+        "sha256": "f56a758ae35292053fa329cc00ee4751ce55bd8320ffd1218c4828309f4825a9"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-forest-fox-expert-thumb.png",
+        "bytes": 18041,
+        "sha256": "fe834b2f488a00d7631882d3c09636be75ffd5eaee4075c677c18e30e7cc9576"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-honey-bear-expert",
+        "title": "Honey Bear",
+        "category": "Animals",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-animals-honey-bear-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-honey-bear-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-honey-bear-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-honey-bear-expert-image.png",
+        "bytes": 132317,
+        "sha256": "6259d5f81bf9fadecc573108ac47065766962d6ed0bb5090a9e6f91cf1d42bb2"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-honey-bear-expert-thumb.png",
+        "bytes": 18515,
+        "sha256": "154b705d2f79f611fdd3b086ebfc022ee6a2c43fd6e20abccffbe863b00caf11"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-animals-gentle-elephant-expert",
+        "title": "Gentle Elephant",
+        "category": "Animals",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-animals-gentle-elephant-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-animals-gentle-elephant-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-animals-gentle-elephant-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-animals-gentle-elephant-expert-image.png",
+        "bytes": 132533,
+        "sha256": "2ebf62102250c2fc9fec7fbf3dba6cf90d2a962d3a4ebd471209bf625c691fac"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-animals-gentle-elephant-expert-thumb.png",
+        "bytes": 18283,
+        "sha256": "960787b27c6466777e44acd7067468606d2c17690c7090a5bfa44c0ef692f41d"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-rainbow-sky-expert",
+        "title": "Rainbow Sky",
+        "category": "Nature",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-nature-rainbow-sky-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-rainbow-sky-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-rainbow-sky-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-expert-image.png",
+        "bytes": 165898,
+        "sha256": "94306acb1d9ab1183337e6d06effaeeacfb7215e8e284b987017203192067cfe"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-rainbow-sky-expert-thumb.png",
+        "bytes": 25780,
+        "sha256": "9b5cb77a8ba7bf22b6ade60daf38afb107d96eb1a589a708858407c67b17d335"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-forest-mushrooms-expert",
+        "title": "Forest Mushrooms",
+        "category": "Nature",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-nature-forest-mushrooms-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-forest-mushrooms-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-forest-mushrooms-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-forest-mushrooms-expert-image.png",
+        "bytes": 162024,
+        "sha256": "72d341cfdd99f027cac09bf8d30ee0ab0ed2faa9a816c12b96ff331526d20137"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-forest-mushrooms-expert-thumb.png",
+        "bytes": 25033,
+        "sha256": "863f5f9d7d1424ab2fb2373571e809516a178db69c0f47deaf51728d4964a4b7"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-mountain-peaks-expert",
+        "title": "Mountain Peaks",
+        "category": "Nature",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-nature-mountain-peaks-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-mountain-peaks-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-mountain-peaks-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-mountain-peaks-expert-image.png",
+        "bytes": 177562,
+        "sha256": "c36335980f13030ac029358cfcbcecb93171936add4122cbc6a5b2c355da2df3"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-mountain-peaks-expert-thumb.png",
+        "bytes": 26204,
+        "sha256": "7280e45eae18c5f9d54a318db21d53dd365b5d00c8d887bf2643a50e93ec291e"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-duck-pond-expert",
+        "title": "Duck Pond",
+        "category": "Nature",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-nature-duck-pond-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-duck-pond-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-duck-pond-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-duck-pond-expert-image.png",
+        "bytes": 168928,
+        "sha256": "25bb23d208402375978631509534a4eef1f4cb16e12a89e0b182929e0b2a4db8"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-duck-pond-expert-thumb.png",
+        "bytes": 25940,
+        "sha256": "fb049a0ed026ec975a56af7b219d21285fcc567998df2f322f92271163872ee7"
+      }
+    },
+    {
+      "page": {
+        "id": "paintivo-tier-nature-waterfall-valley-expert",
+        "title": "Waterfall Valley",
+        "category": "Nature",
+        "difficulty": "Expert",
+        "image": "pages/paintivo-tier-nature-waterfall-valley-expert-image.png",
+        "thumbnail": "pages/paintivo-tier-nature-waterfall-valley-expert-thumb.png",
+        "creator": "Paintivo / project-authored vector",
+        "source": "Tools/LibrarySources/Levels/paintivo-tier-nature-waterfall-valley-expert.svg",
+        "license": "Original project artwork"
+      },
+      "image": {
+        "url": "pages/paintivo-tier-nature-waterfall-valley-expert-image.png",
+        "bytes": 143551,
+        "sha256": "ead36f51f4aa5a5093da894edce5770c87e8552f08b6d4fea6f94fe2c20cf475"
+      },
+      "thumbnail": {
+        "url": "pages/paintivo-tier-nature-waterfall-valley-expert-thumb.png",
+        "bytes": 22553,
+        "sha256": "d06145cf33b251b9f39aaee78707674498166fcb9b891288cf93c4763ab474fb"
+      }
+    }
+  ]
+}
