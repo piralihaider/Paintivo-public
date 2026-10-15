@@ -1,0 +1,3 @@
+# Manifests are SHA-256 checked by the app: preserve the exact published bytes.
+*.json -text
+*.png -text
